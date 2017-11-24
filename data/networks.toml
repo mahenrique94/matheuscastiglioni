@@ -1,0 +1,29 @@
+[networks]
+    [network1]
+        name = "Facebook"
+        icon = "facebook-square"
+        url = "https://www.facebook.com/matheus.castiglioni.5"
+    [network3]
+        name = "Gitub"
+        icon = "github-square"
+        url = "https://github.com/mahenrique94"
+    [network4]
+        name = "Google Plus"
+        icon = "google-plus-square"
+        url = "https://plus.google.com/116607343343494563581"
+    [network5]
+        name = "Instagram"
+        icon = "instagram"
+        url = "https://www.instagram.com/mahenrique94/"
+    [network6]
+        name = "Linkedin"
+        icon = "linkedin-square"
+        url = "https://www.linkedin.com/in/matheus-castiglioni-7aa105114/"
+    [network7]
+        name = "Medium"
+        icon = "medium"
+        url = "https://medium.com/@mahenrique94"
+    [network8]
+        name = "Twitter"
+        icon = "twitter-square"
+        url = "https://twitter.com/mahenrique94"

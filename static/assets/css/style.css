@@ -1,0 +1,9 @@
+:root {
+    --colorPrimary : #35879A;
+    --colorPrimaryText : #FBFBFB;
+    --colorSecondary : #42A8C0;
+    --colorText: #595959;
+    --navHeight: 100vh;
+    --navWidth: 250px;
+    --padding: 1rem;
+}

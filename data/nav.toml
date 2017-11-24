@@ -1,0 +1,29 @@
+[nav]
+    [link2]
+        name = "Projetos"
+        icon = "keyboard-o"
+        url = "/projetos/"
+    [link3]
+        name = "Desenhos"
+        icon = "image"
+        url = "desenhos/"
+    [link4]
+        name = "Animações"
+        icon = "film"
+        url = "/animacoes/"
+    [link5]
+        name = "Jogos"
+        icon = "gamepad"
+        url = "/jogos/"
+    [link6]
+        name = "Aplicativos"
+        icon = "mobile"
+        url = "/apps/"
+    [link7]
+        name = "Blog"
+        icon = "newspaper-o"
+        url = "/blog/"
+    [link8]
+        name = "Sobre mim"
+        icon = "user"
+        url = "/sobre/"

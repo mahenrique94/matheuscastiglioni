@@ -1,0 +1,21 @@
+<nav class="c-nav">
+    <div class="c-nav__author">
+        <img alt="{{ .Site.Params.author }}" class="c-nav__author___photo" src="{{ .Site.Params.photoPerfil }}">
+        <span class="c-nav__author___name">{{ .Site.Params.author }}</span>
+        <span class="c-nav__author___function">Desenvolvedor Full Stack</span>
+    </div>
+    <ul class="c-nav__list">
+        {{ range .Site.Data.nav }}
+            {{ if .name }}
+                <li class="c-nav__item"><a class="c-nav__link" href="{{ .url }}"><i class="c-nav__link___icon fa fa-{{ .icon }}"></i>{{ .name }}</a></li>
+            {{ end }}
+        {{ end }}
+    </ul>
+    <ul class="c-nav__list--networks">
+        {{ range .Site.Data.networks }}
+            {{ if .name }}
+                <li class="c-nav__item--network"><a class="c-nav__link--network" href="{{ .url }}" target="_blank"><i class="c-nav__link___icon--network fa fa-{{ .icon }}"></i></a></li>
+            {{ end }}
+        {{ end }}
+    </ul>
+</nav>

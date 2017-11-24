@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ .Site.Title }}{{ if .Param "page"}}&nbsp;|&nbsp;{{ .Param "page" }}{{ end }}</title>
+    <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/reset.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/style.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/header.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/nav.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/footer.css" rel="stylesheet" type="text/css">
+    <link href="/assets/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <header class="o-header">
+        <h1 class="o-header__title">{{ .Param "title" }}</h1>
+        <p class="o-header__describe">{{ .Param "excerpt"}}</p>
+    </header>
+    {{ partial "nav.html" . }}

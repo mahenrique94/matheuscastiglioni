@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Titulo do site on Matheus Castiglioni</title>
+    <link>http://www.matheuscastiglioni.com.br/</link>
+    <description>Recent content in Titulo do site on Matheus Castiglioni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 23 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.matheuscastiglioni.com.br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

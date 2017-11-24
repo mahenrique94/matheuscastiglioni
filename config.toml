@@ -1,0 +1,11 @@
+# http://webjeda.com/online-cv/
+
+baseURL = "http://www.matheuscastiglioni.com.br/"
+defaultContentLanguage = "pt-br"
+languageCode = "pt-br"
+theme = "matheuscastiglioni"
+title = "Matheus Castiglioni"
+
+[params]
+    author = "Matheus Castiglioni"
+    photoPerfil = "http://blog.matheuscastiglioni.com.br/arquivo/download/usuarios/matheus-castiglioni.jpg"
