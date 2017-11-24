@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79484dc6-b791-4370-8d50-bd0f1f638b19" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/_default/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/_default/single.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/css/config.css" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/config.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/css/footer.css" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/footer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/css/header.css" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/header.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/css/nav.css" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/nav.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/css/normalize.css" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/normalize.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/css/reset.css" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/reset.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/css/style.css" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/lib/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/lib/font-awesome/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/lib/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/lib/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/lib/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/lib/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/lib/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/lib/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/lib/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/lib/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.xml" afterPath="$PROJECT_DIR$/public/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/header.html" afterPath="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/header.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,18 +37,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,12 +79,12 @@
         <option value="$PROJECT_DIR$/static/assets/css/footer.css" />
         <option value="$PROJECT_DIR$/static/assets/css/header.css" />
         <option value="$PROJECT_DIR$/static/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/header.html" />
         <option value="$PROJECT_DIR$/data/nav.toml" />
         <option value="$PROJECT_DIR$/data/networks.toml" />
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/nav.html" />
         <option value="$PROJECT_DIR$/static/assets/css/nav.css" />
         <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/header.html" />
       </list>
     </option>
   </component>
@@ -107,7 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,89 +125,11 @@
               <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
               <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="font-awesome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="font-awesome" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,13 +140,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets" />
+      <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/static" />
+      <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/static/css" />
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$/static/assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/assets/lib" />
       <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content" />
-      <recent name="$PROJECT_DIR$/static/assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -245,17 +180,17 @@
       <workItem from="1511476239431" duration="15000" />
       <workItem from="1511476268819" duration="9863000" />
       <workItem from="1511525590987" duration="17000" />
+      <workItem from="1511526122180" duration="185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10949000" />
+    <option name="totallyTimeSpent" value="11134000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24384432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24384432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -289,22 +224,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/layouts/partials/menu.html" />
-    <entry file="file://$PROJECT_DIR$/content/_index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/menu.html" />
     <entry file="file://$PROJECT_DIR$/layouts/partials/page.html" />
     <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/page.html" />
     <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/footer.html">
@@ -314,7 +233,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/normalize.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="446" column="1" lean-forward="false" selection-start-line="446" selection-start-column="1" selection-end-line="446" selection-end-column="1" />
@@ -322,17 +241,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/_index.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="45">
             <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -343,35 +262,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/config.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/config.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/reset.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/footer.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/footer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/header.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/header.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/lib/font-awesome/css/font-awesome.min.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/lib/font-awesome/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -385,7 +304,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
@@ -413,7 +332,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/nav.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/nav.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
@@ -500,7 +419,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/normalize.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="446" column="1" lean-forward="false" selection-start-line="446" selection-start-column="1" selection-end-line="446" selection-end-column="1" />
@@ -508,17 +427,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/_index.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="45">
             <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -529,49 +448,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/config.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/config.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/reset.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/footer.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/footer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/header.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/header.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/lib/font-awesome/css/font-awesome.min.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/lib/font-awesome/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
@@ -594,8 +506,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -607,10 +519,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/nav.css">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/nav.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/_default/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/_default/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
