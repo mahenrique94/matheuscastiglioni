@@ -1,29 +1,33 @@
 [nav]
-    [link2]
-        name = "Projetos"
-        icon = "keyboard-o"
-        url = "/projetos/"
-    [link3]
+    [desenhos]
         name = "Desenhos"
         icon = "image"
         url = "desenhos/"
-    [link4]
+    [animacoes]
         name = "Animações"
         icon = "film"
         url = "/animacoes/"
-    [link5]
-        name = "Jogos"
-        icon = "gamepad"
-        url = "/jogos/"
-    [link6]
+    [aplicativos]
         name = "Aplicativos"
         icon = "mobile"
         url = "/apps/"
-    [link7]
+    [blog]
         name = "Blog"
         icon = "newspaper-o"
         url = "/blog/"
-    [link8]
+    [jogos]
+        name = "Jogos"
+        icon = "gamepad"
+        url = "/jogos/"
+    [portfolio]
+        name = "Portfólio"
+        icon = "briefcase"
+        url = "/portfolio/"
+    [projetos]
+        name = "Projetos"
+        icon = "keyboard-o"
+        url = "/projetos/"
+    [sobremim]
         name = "Sobre mim"
         icon = "user"
         url = "/sobre/"
