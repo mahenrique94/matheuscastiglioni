@@ -1,5 +1,5 @@
 .o-header {
-    background: #F1F3F4;
+    background: var(--colorThird);
     color: #35879A;
     margin-left: var(--navWidth);
     padding: var(--padding) 2rem;

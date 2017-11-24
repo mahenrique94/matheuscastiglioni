@@ -1,0 +1,16 @@
+[projects]
+    [gorfeiscore]
+        name = "GorfeiScore"
+        image = ""
+        excerpt = ""
+        url = ""
+    [ideotastruco]
+        name = "IdeotasTruco"
+        image = ""
+        excerpt = ""
+        url = ""
+    [mcalc]
+        name = "MCalc"
+        image = ""
+        excerpt = ""
+        url = ""
