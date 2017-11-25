@@ -2,12 +2,12 @@
     <div class="c-nav__author">
         <img alt="{{ .Site.Params.author }}" class="c-nav__author___photo" src="{{ .Site.Params.photoPerfil }}">
         <a class="c-nav__author___name" href="/">{{ .Site.Params.author }}</a>
-        <span class="c-nav__author___function">Desenvolvedor Full Stack</span>
+        <span class="c-nav__author___function">{{ .Site.Params.authorWork }}</span>
     </div>
     <ul class="c-nav__list">
         {{ range .Site.Data.nav }}
             {{ if .name }}
-                <li class="c-nav__item"><a class="c-nav__link" href="{{ .url }}"><i class="c-nav__link___icon fa fa-{{ .icon }}"></i>{{ .name }}</a></li>
+                <li class="c-nav__item"><a class="c-nav__link {{ if eq $.Page.Type .slug }} is-active {{ end }}" href="{{ .url }}"><i class="c-nav__link___icon fa fa-{{ .icon }}"></i>{{ .name }}</a></li>
             {{ end }}
         {{ end }}
     </ul>

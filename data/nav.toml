@@ -2,32 +2,40 @@
     [desenhos]
         name = "Desenhos"
         icon = "image"
-        url = "desenhos/"
+        slug = "desenhos"
+        url = "/desenhos/"
     [animacoes]
         name = "Animações"
         icon = "film"
+        slug = "animacoes"
         url = "/animacoes/"
     [aplicativos]
         name = "Aplicativos"
         icon = "mobile"
+        slug = "apps"
         url = "/apps/"
     [blog]
         name = "Blog"
         icon = "newspaper-o"
+        slug = "blog"
         url = "/blog/"
     [jogos]
         name = "Jogos"
         icon = "gamepad"
+        slug = "jogos"
         url = "/jogos/"
     [portfolio]
-        name = "Portfólio"
+        name = "Portfólios"
         icon = "briefcase"
-        url = "/portfolio/"
+        slug = "portoflios"
+        url = "/portfolios/"
     [projetos]
         name = "Projetos"
         icon = "keyboard-o"
+        slug = "projetos"
         url = "/projetos/"
     [sobremim]
         name = "Sobre mim"
         icon = "user"
+        slug = "sobre"
         url = "/sobre/"

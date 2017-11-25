@@ -1,0 +1,20 @@
+{{ $data := index .Site.Data ( .Get 0 ) }}
+
+<div class="o-box">
+    {{ range $data }}
+        {{ if .name }}
+            <div class="o-box__barrel">
+                {{ with .video }} <iframe allowfullscreen class="o-box__barrel___thumbnail" src="{{ . }}"></iframe> {{ end }}
+                {{ with .image }} <a href="{{ . }}" target="_blank"><div class="o-box__barrel___thumbnail" style="background-image: url({{ . }});"></div></a> {{ end }}
+                <div class="o-box__barrel___content">
+                    <div class="o-box__barrel___content___info">
+                        <h3 class="o-box__barrel___title"><a class="o-box__barrel___link" href="{{ .link }}" target="_blank">{{ .name }}</a></h3>
+                        <span class="o-box__barrel___cattegory">{{ .cattegory }}</span>
+                    </div>
+                    <p class="o-box__barrel___content____excerpt">{{ .excerpt }}.</p>
+                    <a class="o-box__barrel___view" href="{{ .link }}" target="_blank">{{ i18n "button-visualizar" }}</a>
+                </div>
+            </div>
+        {{ end }}
+    {{ end }}
+</div>

@@ -1,11 +1,13 @@
 [animactions]
-    [vinhetaaberturaatena]
+    [vinheta-abertura-atena]
         cattegory = "After Effects"
         excerpt = "Vinheta para abertura de vídeos"
-        link = "https://player.vimeo.com/video/218637648"
+        link = "https://vimeo.com/218637648"
         name = "Vinheta Abertura - Atena"
-    [vinhetafechamentoatena]
+        video = "https://player.vimeo.com/video/218637648"
+    [vinheta-fechamento-atena]
         cattegory = "After Effects"
         excerpt = "Vinheta para finalização de vídeos"
-        link = "https://player.vimeo.com/video/218657729"
+        link = "https://vimeo.com/218657729"
         name = "Vinheta Fechamento - Atena"
+        video = "https://player.vimeo.com/video/218657729"

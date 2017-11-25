@@ -65,7 +65,7 @@
     font-size: 1.2rem;
     transition: all .25s linear;
 }
-.c-nav__link:hover {
+.c-nav__link:hover, .c-nav__link.is-active {
     background: var(--colorPrimary);
 }
 .c-nav__link___icon {

@@ -15,7 +15,7 @@ Pouco tempo depois, aos 17 anos provavelmente, comecei a trabalhar período inte
 
 Aos 19 anos, quase concluíndo meu primeiro curso técnico em informática, fui chamado por um amigo do meu pai para trabalhar no suporte técnido de uma empresa, a intenção era dar suporte e ajudar os clientes que usavam os sistemas da mesma. Fiquei quase um ano realizando suporte, até que a proposta para começar a desenvolver ocorreu, depois de muitos cursos, livros e estudos realizados.
 
-Hoje a mais ou menos dois anos e meio sou desenvolvedor *Full Stack* e um apaixonado pela tecnologia e códigos.
+Hoje a mais ou menos dois anos e meio sou Desenvolvedor *Full Stack* e um apaixonado pela tecnologia e códigos.
 
 <div class="l-separator"></div>
 
