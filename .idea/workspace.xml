@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79484dc6-b791-4370-8d50-bd0f1f638b19" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/jogos/_index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/portfolios/_index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/portfolios.toml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/portfolio.toml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/apps.toml" afterPath="$PROJECT_DIR$/data/apps.toml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/draws.toml" afterPath="$PROJECT_DIR$/data/draws.toml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/games.toml" afterPath="$PROJECT_DIR$/data/games.toml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/nav.toml" afterPath="$PROJECT_DIR$/data/nav.toml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +20,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="portfolios.toml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/portfolios.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="99" lean-forward="false" selection-start-line="5" selection-start-column="99" selection-end-line="5" selection-end-column="99" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,7 +76,6 @@
         <option value="$PROJECT_DIR$/data/networks.toml" />
         <option value="$PROJECT_DIR$/public/sitemap.xml" />
         <option value="$PROJECT_DIR$/data/projetcts.toml" />
-        <option value="$PROJECT_DIR$/data/portfolio.toml" />
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/config.css" />
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/font.css" />
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/reset.css" />
@@ -78,7 +88,6 @@
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/i18n/pt-BR.toml" />
         <option value="$PROJECT_DIR$/content/_index.md" />
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/header.html" />
-        <option value="$PROJECT_DIR$/data/nav.toml" />
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/nav.html" />
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/nav.css" />
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/animactions.html" />
@@ -92,6 +101,10 @@
         <option value="$PROJECT_DIR$/content/jogos/_index.md" />
         <option value="$PROJECT_DIR$/data/draws.toml" />
         <option value="$PROJECT_DIR$/data/games.toml" />
+        <option value="$PROJECT_DIR$/content/portfolios/_index.md" />
+        <option value="$PROJECT_DIR$/data/nav.toml" />
+        <option value="$PROJECT_DIR$/data/portfolio.toml" />
+        <option value="$PROJECT_DIR$/data/portfolios.toml" />
       </list>
     </option>
   </component>
@@ -137,6 +150,12 @@
               <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
               <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
+              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
@@ -253,17 +272,18 @@
       <workItem from="1511526122180" duration="185000" />
       <workItem from="1511560305211" duration="7689000" />
       <workItem from="1511611285189" duration="7056000" />
-      <workItem from="1511634080034" duration="1940000" />
+      <workItem from="1511634080034" duration="2402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27819000" />
+    <option name="totallyTimeSpent" value="28281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24384432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24384432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -296,16 +316,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -397,13 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/portfolio.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -514,13 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/nav.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/nav.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -616,14 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/games.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="101" lean-forward="false" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/jogos/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -632,6 +620,41 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/nav.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/portfolios/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/games.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/portfolios.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="99" lean-forward="false" selection-start-line="5" selection-start-column="99" selection-end-line="5" selection-end-column="99" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -27,7 +27,7 @@
     [portfolio]
         name = "Portfólios"
         icon = "briefcase"
-        slug = "portoflios"
+        slug = "portfolios"
         url = "/portfolios/"
     [projetos]
         name = "Projetos"
