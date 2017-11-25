@@ -1,15 +1,18 @@
 [projects]
     [gorfeiscore]
+        cattegory = "Android - Kotlin"
         excerpt = "Marcar pontuação dos jogadores no jogo Gorfei"
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1511618774/Screenshot_1509408209_m0xerf.png"
         link = "https://play.google.com/store/apps/details?id=br.com.matheuscastiglioni.gorfeiscore"
         name = "GorfeiScore"
     [ideotastruco]
+        cattegory = "Android - Java"
         excerpt = "Marca tento para o jogo Truco"
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1511618821/Screenshot_1504049864_pwwijp.png"
         link = "https://play.google.com/store/apps/details?id=br.com.matheuscastiglioni.ideotastruco"
         name = "IdeotasTruco"
     [mcalc]
+        cattegory = "Android - Java"
         excerpt = "Calculadora simples com as quatro operações básicas(somar, subtrair, dividir e multiplicar) da matematica"
         image = "http://res.cloudinary.com/mahenrique94/image/upload/v1503494010/Screenshot_1503101218_vnzy19.png"
         link = "https://play.google.com/store/apps/details?id=br.com.matheuscastiglioni.mcalc"

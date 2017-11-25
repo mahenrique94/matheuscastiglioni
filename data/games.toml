@@ -1,11 +1,13 @@
-[projects]
+[games]
     [spacewar]
-        name = "SpaceWar"
-        image = ""
-        excerpt = ""
-        url = ""
+        cattegory = "Cocos Creator"
+        excerpt = "Jogo de nave onde você tem que derrotar e desviar dos alvos inimigos"
+        link = "https://github.com/mahenrique94/spacewar"
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1511635976/spacewar_iifgla.png"
+        name = "SpaceWar (em desenvolvimento)"
     [balloons]
+        cattegory = "HTML5, CSS3 e TypeScript"
+        excerpt = "Jogo onde você tem que estourar os balões antes que eles subam"
+        link = "https://mahenrique94.github.io/balloons/"
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1511636012/balloons_pqphyd.png"
         name = "Balloons"
-        image = ""
-        excerpt = ""
-        url = ""
