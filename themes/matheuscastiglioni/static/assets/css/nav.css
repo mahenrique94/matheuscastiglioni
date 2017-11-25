@@ -30,6 +30,9 @@
     font-weight: bold;
     line-height: 1.5;
 }
+.c-nav__author___name:hover {
+    text-decoration: underline;
+}
 .c-nav__author___function {
     font-size: .9rem;
 }
