@@ -1,0 +1,12 @@
+{{ $data := index .Site.Data ( .Get 0 ) }}
+
+<div class="o-listBox">
+    {{ range $data }}
+        {{ if .title }}
+            <div class="o-listBox__barrel">
+                <h3 class="o-listBox__barrel___title">{{ .title }}</h3>
+                <p class="o-listBox__barrel___excerpt">{{ .excerpt }}</p>
+            </div>
+        {{ end }}
+    {{ end }}
+</div>

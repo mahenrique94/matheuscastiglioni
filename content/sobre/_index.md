@@ -12,7 +12,7 @@ Apaixonado pelo mundo dos códigos e um eterno estudante, gosto de aprender e sa
 
 ## Comunidade
 
-{{% listIcon "community" %}}
+{{% boxList "community" %}}
 
 ## Grupos
-{{% listIcon "groups" %}}
+{{% boxList "groups" %}}
