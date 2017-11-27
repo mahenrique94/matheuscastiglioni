@@ -1,4 +1,4 @@
-[projects]
+[apps]
     [gorfeiscore]
         cattegory = "Android - Kotlin"
         excerpt = "Marcar pontuação dos jogadores no jogo Gorfei"

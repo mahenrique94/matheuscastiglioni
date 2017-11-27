@@ -1,0 +1,31 @@
+[posts]
+    [posts1]
+        cattegory = ""
+        excerpt = ""
+        image = ""
+        link = ""
+        name = ""
+    [posts2]
+        cattegory = ""
+        excerpt = ""
+        image = ""
+        link = ""
+        name = ""
+    [posts3]
+        cattegory = ""
+        excerpt = ""
+        image = ""
+        link = ""
+        name = ""
+    [posts4]
+        cattegory = ""
+        excerpt = ""
+        image = ""
+        link = ""
+        name = ""
+    [posts5]
+        cattegory = ""
+        excerpt = ""
+        image = ""
+        link = ""
+        name = ""
