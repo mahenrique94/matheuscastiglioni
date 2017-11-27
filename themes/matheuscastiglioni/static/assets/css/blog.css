@@ -18,15 +18,22 @@
     background-repeat: no-repeat;
     background-size: cover;
     float: left;
-    height: 220px;
+    height: 200px;
     margin-right: var(--padding);
     width: 250px;
 }
 .o-posts__post___content {
     padding: var(--padding);
 }
+.o-posts__post___info____title {
+    border-bottom: 1px solid #DCDCDC;
+    color: var(--colorPrimary);
+    display: block;
+    font-family: Lato, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
 .o-posts__post___info____title:hover {
-    cursor: pointer;
     text-decoration: underline;
 }
 .o-posts__post___info____date {
