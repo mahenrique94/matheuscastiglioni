@@ -1,0 +1,18 @@
+<div class="o-posts">
+    {{ range .Site.Data.posts }}
+        {{ if .title }}
+            <div class="o-posts__post">
+                <div class="o-posts__post___thumbnail" style="background-image: url({{ .image }});"></div>
+                <div class="o-posts__post___content">
+                    <div class="o-posts__post___info">
+                        <h2 class="o-posts__post___info____title">{{ .title }}</h2>
+                        <time class="o-posts__post___info____date">{{ .date }}</time>
+                    </div>
+                    <p class="o-posts__post___content____excerpt">{{ .excerpt }}</p>
+                    <a class="o-posts__post___link" href="{{ .link }}" target="_blank">{{ i18n "button-continuar-lendo" }}</a>
+                </div>
+            </div>
+        {{ end }}
+    {{ end }}
+    <a class="o-posts__link" href="http://blog.matheuscastiglioni.com.br/" target="_blank">{{ i18n "button-visualizar-todos" }}</a>
+</div>

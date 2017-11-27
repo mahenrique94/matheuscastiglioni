@@ -1,2 +1,8 @@
+[button-continuar-lendo]
+    other = "Continuar Lendo"
+
 [button-visualizar]
     other = "Visualizar"
+
+[button-visualizar-todos]
+    other = "Visualizar Todos"

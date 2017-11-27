@@ -1,31 +1,31 @@
 [posts]
-    [posts1]
-        cattegory = ""
-        excerpt = ""
-        image = ""
-        link = ""
-        name = ""
-    [posts2]
-        cattegory = ""
-        excerpt = ""
-        image = ""
-        link = ""
-        name = ""
-    [posts3]
-        cattegory = ""
-        excerpt = ""
-        image = ""
-        link = ""
-        name = ""
-    [posts4]
-        cattegory = ""
-        excerpt = ""
-        image = ""
-        link = ""
-        name = ""
-    [posts5]
-        cattegory = ""
-        excerpt = ""
-        image = ""
-        link = ""
-        name = ""
+    [post1]
+        date = "14/11/2017 10:41"
+        excerpt = "Uma tarefa muito comúm do dia a dia seria realizar requisições HTTP e consumir Web Services, mas as vezes pode ser um tanto quanto chata pois precisa de configurações e alguns passos a serem seguidos. Para exemplo do post, vamos consumir um serviço..."
+        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2017/11/consumindo-web-service-no-android.jpg"
+        link = "http://blog.matheuscastiglioni.com.br/consumindo-web-service-no-android"
+        title = "Consumindo Web Service no Android"
+    [post2]
+        date = "06/11/2017 22:41"
+        excerpt = "Kotlin Muito se fala sobre essa linguagem nova que surgiu em nosso mundo, principalmente agora por ser uma linguagem oficial para desenvolver aplicativos em Android, porém a idéia não se limita apenas a app, com o Kotlin também conseguimos desenvolver..."
+        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2017/11/comecando-com-kotlin.jpg"
+        link = "http://blog.matheuscastiglioni.com.br/comecando-com-kotlin"
+        title = "Começando com Kotlin"
+    [post3]
+        date = "31/10/2017 11:31"
+        excerpt = "SMACSS, OOCSS, BEM ou DRY CSS ? Hoje em dia escrever CSS deveria ser uma tarefa simples, porém, ao longo do tempo foram surgindo muitas formas da mesma ser realizada, onde começaram surgir as dúvidas, logo em seguida, irei tentar explicar como funciona..."
+        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2017/10/organizando-seu-codigo-css-parte-01.jpg"
+        link = "http://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-01"
+        title = "Organizando seu código CSS parte 01"
+    [post4]
+        date = "27/10/2017 08:25"
+        excerpt = "Destructuring Muitas vezes precisamos extrair o valor de algum objeto em JavaScript: const aluno = {nome : \"Matheus\", idade : \"23\", email : \"matheushcastiglioni@gmail.com\"}; console.log(aluno.nome); console.log(aluno.idade); console.log(aluno.email); Vej..."
+        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2017/10/es6-o-javascript-do-momento-parte-02.jpg"
+        link = "http://blog.matheuscastiglioni.com.br/es6-o-javascript-do-momento-parte-02"
+        title = "ES6 - O JavaScript do momento parte 02"
+    [post5]
+        date = "18/10/2017 08:47"
+        excerpt = "Imagine que um amigo, chegou em você e disse: Eu preciso criar um layout com um cabeçalho, um menu lateral, o conteúdo principal e um rodapé Se você já esta acostumado a criar páginas HTML5 com CSS3 já deve ter imáginado toda a estrutura, algo..."
+        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2017/10/criando-layouts-com-css-grid-layout.jpg"
+        link = "http://blog.matheuscastiglioni.com.br/criando-layouts-com-css-grid-layout"
+        title = "Criando Layouts com CSS Grid Layout"
