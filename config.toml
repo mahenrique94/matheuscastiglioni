@@ -1,5 +1,3 @@
-# http://webjeda.com/online-cv/
-
 baseURL = "http://www.matheuscastiglioni.com.br/"
 defaultContentLanguage = "pt-br"
 languageCode = "pt-br"

@@ -1,0 +1,9 @@
+{{ $data := index .Site.Data ( .Get 0 ) }}
+
+<ul class="o-list">
+    {{ range $data }}
+        {{ if .name }}
+            <li class="o-list__item"><a class="o-list__link" href="{{ .url }}" target="_blank"><i class="fa fa-{{ .icon }} o-list__icon"></i>{{ .name }}</a></li>
+        {{ end }}
+    {{ end }}
+</ul>

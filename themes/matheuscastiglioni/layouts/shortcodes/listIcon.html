@@ -1,0 +1,12 @@
+{{ $data := index .Site.Data ( .Get 0 ) }}
+
+<div class="o-community">
+    {{ range $data }}
+        {{ if .title }}
+            <div class="o-community__barrel">
+                <h3 class="o-community__barrel___title">{{ .title }}</h3>
+                <p class="o-community__barrel___excerpt">{{ .excerpt }}</p>
+            </div>
+        {{ end }}
+    {{ end }}
+</div>

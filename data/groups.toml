@@ -1,0 +1,19 @@
+[groups]
+    [group1]
+        excerpt = "Administrador do grupo Bootstrap Brasil no Telegram"
+        title = "Bootstrap Brasil"
+    [group2]
+        excerpt = "Administrador do grupo CSS Brasil no Telegram"
+        title = "CSS Brasil"
+    [group3]
+        excerpt = "Administrador do grupo HTML Brasil no Telegram"
+        title = "HTML Brasil"
+    [group4]
+        excerpt = "Administrador do grupo JavaScript Brasil no Telegram"
+        title = "JavaScript Brasil"
+    [group5]
+        excerpt = "Administrador do grupo jQuery Brasil no Telegram"
+        title = "jQuery Brasil"
+    [group6]
+        excerpt = "Administrador do grupo WebDevelopers no Telegram"
+        title = "WebDevelopers"

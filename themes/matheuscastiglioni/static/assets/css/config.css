@@ -12,3 +12,22 @@ body:before {
     margin-top: -32767px;
     width: 0;
 }
+
+h2 {
+    border-bottom: 1px solid var(--colorThird);
+    color: var(--colorPrimary);
+    font-family: Lato, sans-serif;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+h3 {
+    color: #3F4650;
+    font-family: Lato, sans-serif;
+    font-weight: 500;
+}
+
+h5 {
+    color: var(--colorTextSmall);
+    font-family: Lato, sans-serif;
+}

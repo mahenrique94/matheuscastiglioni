@@ -1,0 +1,17 @@
+.o-community {
+    display: flex;
+    flex-wrap: wrap;
+}
+.o-community__barrel {
+    padding-bottom: 2rem;
+    padding-right: var(--padding);
+    width: 50%;
+}
+.o-community__barrel___title {
+    color: var(--colorText);
+    font-weight: 500;
+    font-size: 1.250rem;
+}
+.o-community__barrel___icon {
+    float: left;
+}
