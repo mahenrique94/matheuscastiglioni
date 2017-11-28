@@ -10,5 +10,6 @@
     <header class="o-header">
         <h1 class="o-header__title">{{ .Param "title" }}</h1>
         <p class="o-header__describe">{{ .Param "excerpt"}}</p>
+        <a class="o-header__responsive" href="javascript:void(0)" onclick="showNav();"><i class="fa fa-navicon"></i></a>
     </header>
     {{ partial "nav.html" . }}

@@ -5,8 +5,6 @@
 .o-box__barrel {
     box-shadow: 0 0 3px rgba(0, 0, 0, .3);
     margin-bottom: var(--padding);
-    margin-right: var(--padding);
-    width: calc(50% - 1rem);
 }
 .o-box__barrel___thumbnail {
     background-position: center;

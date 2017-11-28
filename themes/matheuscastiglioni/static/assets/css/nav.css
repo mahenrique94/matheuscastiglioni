@@ -1,6 +1,5 @@
 .c-nav {
     background: var(--colorSecondary);
-    display: flex;
     flex-direction: column;
     height: var(--navHeight);
     justify-content: space-between;
@@ -8,8 +7,16 @@
     position: fixed;
     top: 0;
     width: var(--navWidth);
+    z-index: 1;
 }
-
+.c-nav__background {
+    background: rgba(0, 0, 0, .5);
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
 .c-nav__author {
     background: var(--colorPrimary);
     color: var(--colorPrimaryText);
@@ -36,7 +43,6 @@
 .c-nav__author___function {
     font-size: .9rem;
 }
-
 .c-nav__list {
     flex-grow: 2;
 }
@@ -57,7 +63,6 @@
 .c-nav__link--network:hover {
     transform: scale(1.3);
 }
-
 .c-nav__link {
     color: var(--colorPrimaryText);
     display: block;

@@ -1,11 +1,17 @@
 .o-header {
     background: var(--colorThird);
     color: #35879A;
-    margin-left: var(--navWidth);
     padding: var(--padding) 2rem;
+    position: relative;
 }
 .o-header__title {
     font-family: Lato, sans-serif;
     font-weight: bold;
     margin-bottom: .125rem;
+}
+.o-header__responsive {
+    font-size: 2rem;
+    right: 2rem;
+    position: absolute;
+    top: 25px;
 }

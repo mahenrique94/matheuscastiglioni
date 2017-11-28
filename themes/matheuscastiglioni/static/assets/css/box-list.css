@@ -5,7 +5,6 @@
 .o-listBox__barrel {
     padding-bottom: 2rem;
     padding-right: var(--padding);
-    width: 50%;
 }
 .o-listBox__barrel___title {
     color: var(--colorText);
