@@ -125,6 +125,12 @@
         image = "http://res.cloudinary.com/mahenrique94/image/upload/v1511633979/robot-sad_trb9ms.png"
         link = "http://res.cloudinary.com/mahenrique94/image/upload/v1511633979/robot-sad_trb9ms.png"
         name = "Robô Triste"
+    [strategy-padroes-de-projeto-em-java]
+        cattegory = "After Effects"
+        excerpt = "Uma mesa com monitor, mouse, luminária e xicará para simular um programar em Java"
+        image = "http://res.cloudinary.com/mahenrique94/image/upload/v1512491608/strategy-padroes-de-projeto-em-java_histym.jpg"
+        link = "http://res.cloudinary.com/mahenrique94/image/upload/v1512491608/strategy-padroes-de-projeto-em-java_histym.jpg"
+        name = "Programando em Java"
     [support]
         cattegory = "After Effects"
         excerpt = "Um atendente de suporte"
