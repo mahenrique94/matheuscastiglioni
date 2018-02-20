@@ -21,9 +21,16 @@ Hoje a mais ou menos dois anos e meio sou Desenvolvedor *Full Stack* e um apaixo
 
 ## <i class="fa fa-briefcase o-content__icon"></i> Experiências
 
+### <i class="fa fa-desktop"></i> Desenvolvedor Front End
+##### [Logicalis](https://www.la.logicalis.com/pt-Latam/)
+<span class="o-content__period">2018 - até o momento</span>
+Desenvolvimento de sistemas web.
+
+<div class="l-separator"></div>
+
 ### <i class="fa fa-keyboard-o"></i> Desenvolvedor Full Stack
 ##### [Atena Informática](http://www.atenainformatica.com.br)
-<span class="o-content__period">2015 - até o momento</span>
+<span class="o-content__period">2015 - 2018</span>
 Desenvolvimento de sites, sistemas web, aplicativos para Android e configurações e manutenção em servidores linux.
 
 <div class="l-separator"></div>
