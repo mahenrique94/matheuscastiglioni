@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "22/02/2018 22:19"
+        excerpt = "Para dar início a série de posts sobre os frameworks para front-end, sendo eles: Angular, VueJS e ReactJS, vou começar falando sobre o React, como é o primeiro post sobre o mesmo, o processo será criar um Hello World, assim como será feito nos prime..."
+        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/02/criando-minha-primeira-app-com-react.jpg"
+        link = "http://blog.matheuscastiglioni.com.br/criando-minha-primeira-app-com-react"
+        title = "Criando minha primeira app com React"
+    [post2]
         date = "21/02/2018 08:31"
         excerpt = "Pois é, se você leu o título e achou estranho fique tranquilo, a ideia é transformar nosso CSS em um super herói com super poderes: CSS with superpowers Como podem ver, esse é o slogan que o próprio SASS usa, CSS com super poderes. O ..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/02/dando-poderes-ao-css-com-sass.jpg"
         link = "http://blog.matheuscastiglioni.com.br/dando-poderes-ao-css-com-sass-parte-01"
         title = "Dando poderes ao CSS com SASS parte 01"
-    [post2]
+    [post3]
         date = "06/02/2018 21:05"
         excerpt = "Muito se fala sobre utilizar JavaScript para criar servidores de back-end, mas afinal, por onde podemos começar? Para exemplo do post vou estar utilizando o NodeJS. Para quem não conhece, o NodeJS é um interpretador de código JavaScript que funciona n..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/02/criando-um-servidor-em-node-com-express.jpg"
         link = "http://blog.matheuscastiglioni.com.br/criando-um-servidor-em-node-com-express"
         title = "Criando um servidor em Node com Express"
-    [post3]
+    [post4]
         date = "23/01/2018 21:59"
         excerpt = "Recentemente precisei implementar uma integração contínua ou como muitos chamam CI (Continuous Integration) em um projeto que estava trabalhando, no post Adicionando JAR's de Terceiros no Maven expliquei como trabalhar com bibliotecas de terceiros, em ..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/01/trabalhando-com-diferentes-perfis-no-maven.jpg"
         link = "http://blog.matheuscastiglioni.com.br/trabalhando-com-diferentes-perfis-no-maven"
         title = "Trabalhando com Diferentes Perfis no Maven"
-    [post4]
+    [post5]
         date = "13/01/2018 11:17"
         excerpt = "Recentemente tive a necessidade de migrar um projeto normal para um projeto Maven, até ai tudo bem, adicionei todas as dependências no pom.xml e voalá, o projeto estava funcionando. Porém, com o tempo surgiu a necessidade de adicionar uma nova depend..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/01/adicionando-jars-de-terceiros-no-maven.jpg"
         link = "http://blog.matheuscastiglioni.com.br/adicionando-jars-de-terceiros-no-maven"
         title = "Adicionando JAR's de Terceiros no Maven"
-    [post5]
-        date = "03/01/2018 18:47"
-        excerpt = "Temos um sistema em produção, porém, temos a necessidade de uma nova feature (funcionalidade), precisamos implementar um cadastro de usuários, onde cada usuário terá um email e senha para futuramente implementarmos um sistema de login (autenticaçã..."
-        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/01/criptografando-e-descriptografando-com-nodejs.jpg"
-        link = "http://blog.matheuscastiglioni.com.br/criptografando-e-descriptografando-com-nodejs"
-        title = "Criptografando e Descriptografando com NodeJS"
