@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "21/03/2018 08:27"
+        excerpt = "No primeiro post sobre Manipulando Views no Android eu mostrei como de forma manual buscar views em nossa Activity e também como adicionar listener para um botão, mas foi um pouco burocrática esse processo de busca, será que não existe uma maneira ma..."
+        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/03/manipulando-views-no-android-com-butterknife.jpg"
+        link = "http://blog.matheuscastiglioni.com.br/manipulando-views-no-android-com-butterknife"
+        title = "Manipulando Views no Android com ButterKnife"
+    [post2]
         date = "15/03/2018 08:05"
         excerpt = "Trabalhar com datas nunca é tão fácil, independente da linguagem que estamos utilizando, exige um certo cuidado e esforço, pensando nisso, nesse post vou tentar simplificar e facilitar a nossa vida, apresentando a biblioteca MomentJS, com ela, manipul..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/03/manipulando-datas-com-momentjs.jpg"
         link = "http://blog.matheuscastiglioni.com.br/trabalhando-com-datas-em-javascript-com-momentjs"
         title = "Trabalhando com datas em JavaScript com MomentJS"
-    [post2]
+    [post3]
         date = "12/03/2018 10:00"
         excerpt = "Continuando a série sobre frameworks ou libs para front, como introdução estou explicando apenas como criar e subir um projeto pela primeira vez, caso tenha perdido os posts anteriores, aqui estão eles: Criando minha primeira app com React Criando mi..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/03/criando-minha-primeira-app-com-vue.jpg"
         link = "http://blog.matheuscastiglioni.com.br/criando-minha-primeira-app-com-vue"
         title = "Criando minha primeira app com Vue"
-    [post3]
+    [post4]
         date = "08/03/2018 09:43"
         excerpt = "SMACSS, OOCSS, BEM ou DRY CSS ? Continuando a série sobre os padrões de escrita da linguagem CSS, esse post é o terceiro da série, caso você perdeu e queira ver: Organizando seu código CSS parte 01 onde é mencionado e descrito o padrão OOCSS Orga..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/03/organizando-seu-codigo-css-parte-03.jpg"
         link = "http://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-03"
         title = "Organizando seu código CSS parte 03"
-    [post4]
+    [post5]
         date = "05/03/2018 08:30"
         excerpt = "Continuando a série de posts sobre frameworks e/ou bibliotecas (lib) para front-end, no post anterior Criando minha primeira app com React expliquei como criar sua primeira app com React e fezer um Hello World. Nesse post irei explicar como fazer o mesmo..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/03/criando-minha-primeira-app-com-angular-5.jpg"
         link = "http://blog.matheuscastiglioni.com.br/criando-minha-primeira-app-com-angular-5"
         title = "Criando minha primeira app com Angular 5"
-    [post5]
-        date = "03/03/2018 08:08"
-        excerpt = "Um dos primeiros posts do blog foi sobre realizar requisições AJAX utilizando XMLHttpRequest, no post mostrei como fazer requisição apenas com JavaScript puro (Vanilla JS). Nesse post vou mostrar como utilizar uma biblioteca (lib) chamada Axios, o Axi..."
-        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/03/realizando-requisicoes-ajax-com-axios.jpg"
-        link = "http://blog.matheuscastiglioni.com.br/realizando-requisicoes-ajax-com-axios"
-        title = "Realizando requisições AJAX com Axios"
