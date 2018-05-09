@@ -1,4 +1,10 @@
 [games]
+    [flappyplane]
+        cattegory = "Unity"
+        excerpt = "Jogo baseado no famoso Flappybird, porém, feito com avião"
+        link = "https://github.com/mahenrique94/flappyplane"
+        image = "http://res.cloudinary.com/mahenrique94/image/upload/v1525830462/Screen_Shot_2018-05-08_at_22.36.28_p21et2.png"
+        name = "Flappy Plane"
     [spacewar]
         cattegory = "Cocos Creator"
         excerpt = "Jogo de nave onde você tem que derrotar e desviar dos alvos inimigos"
