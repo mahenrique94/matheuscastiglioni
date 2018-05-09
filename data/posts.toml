@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "09/05/2018 11:49"
+        excerpt = "Muitos desenvolvedores(as) tem um certo medo de utilizar e trabalhar com o Reduce, nesse post irei explicar e falar um pouco sobre o mesmo, tentanto fazer com que você entenda e seja capaz de utilizá-lo ao término da leitura, vamos nessa? Conhecendo o ..."
+        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/05/utilizando-reduce-do-javascript-sem-medo.jpg"
+        link = "http://blog.matheuscastiglioni.com.br/utilizando-reduce-do-javascript-sem-medo"
+        title = "Utilizando reduce do JavaScript sem medo"
+    [post2]
         date = "03/05/2018 08:13"
         excerpt = "Recentemente comecei uma série sobre Docker, nesse post vou explicar e falar sobre os Containers, esse é o terceiro post da série, caso tenha perdido os dois primeiros, recomendo que faça a leitura deles antes de prosseguir: Começando com Docker Cri..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/05/manipulando-containers-com-docker.jpg"
         link = "http://blog.matheuscastiglioni.com.br/manipulando-containers-com-docker-parte-01"
         title = "Manipulando Containers com Docker parte 01"
-    [post2]
+    [post3]
         date = "27/04/2018 08:52"
         excerpt = "Sem dúvida um dos grandes e mais utilizados recursos (features) do JavaScript são os módulos (modules), hoje vou explicar como carregá-los de forma nativa no navegador, ou seja, sem a utilização de plugins ou bibliotecas de terceiros, está pronto? ..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/04/utilizando-modulos-javascript-de-forma-nativa.jpg"
         link = "http://blog.matheuscastiglioni.com.br/utilizando-modulos-javascript-de-forma-nativa"
         title = "Utilizando módulos JavaScript de forma nativa"
-    [post3]
+    [post4]
         date = "24/04/2018 08:10"
         excerpt = "Geralmente temos a necessidade de criar animações em uma página, seja um site ou uma aplicação web, porém, esse tipo de necessidade já foi muito temida pelos desenvolvedores, pois, tratava-se de um recurso chato de ser feito, tendo a necessidade de..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/04/criando-animacoes-com-css3.jpg"
         link = "http://blog.matheuscastiglioni.com.br/criando-animacoes-com-css3"
         title = "Criando Animações com CSS3"
-    [post4]
+    [post5]
         date = "18/04/2018 08:20"
         excerpt = "Um dos primeiros post do blog, foi exatamente sobre Docker, no post Começando com Docker eu explico um pouco mais sobre a parte teórica, perguntas como: O que é Docker? Porque utilizá-lo? O que é uma imagem? O que é um container? Podem ser respond..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/04/criando-minha-primeira-imagem-com-docker.jpg"
         link = "http://blog.matheuscastiglioni.com.br/criando-minha-primeira-imagem-com-docker"
         title = "Criando minha primeira imagem com Docker"
-    [post5]
-        date = "11/04/2018 08:09"
-        excerpt = "Inúmeras vezes vamos precisar escrever códigos que atendam a nossa necessidade, porém, muitas vezes outras pessoas já passaram pelos mesmos problemas e criaram uma solução, algumas soluções são tão boas que outros seguiram a mesma, tornando assi..."
-        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/04/interpreter-padroes-de-projeto-em-java.jpg"
-        link = "http://blog.matheuscastiglioni.com.br/interpreter-padroes-de-projeto-em-java"
-        title = "Interpreter - Padrões de Projeto em Java"
