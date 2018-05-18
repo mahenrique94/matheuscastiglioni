@@ -1,0 +1,7 @@
+[animactions]
+    [css-grid-layout]
+        cattegory = "CSS3"
+        excerpt = "Neste vídeo mostro como criar um layout utilizando a nova feature do CSS3 chamada CSS Grid Layout."
+        link = "https://vimeo.com/218637648"
+        name = "[Front-End] - CSS Grid Layout"
+        video = "https://www.youtube.com/embed/HBlBNAtFcdw"

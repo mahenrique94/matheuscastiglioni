@@ -39,3 +39,8 @@
         icon = "user"
         slug = "sobre"
         url = "/sobre/"
+    [videos]
+        name = "Vídeos"
+        icon = "desktop"
+        slug = "videos"
+        url = "/videos/"

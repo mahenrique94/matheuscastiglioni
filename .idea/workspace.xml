@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79484dc6-b791-4370-8d50-bd0f1f638b19" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/content/videos/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/videos.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/nav.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/nav.toml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="posts.toml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/posts.toml">
+      <file leaf-file-name="_index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/videos/_index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            <state relative-caret-position="75">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="videos.toml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/videos.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -59,15 +71,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/animactions.html" />
-        <option value="$PROJECT_DIR$/content/animacoes/_index.md" />
-        <option value="$PROJECT_DIR$/content/apps/_index.md" />
         <option value="$PROJECT_DIR$/data/animactions.toml" />
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/loop.html" />
         <option value="$PROJECT_DIR$/content/desenhos/_index.md" />
         <option value="$PROJECT_DIR$/content/jogos/_index.md" />
         <option value="$PROJECT_DIR$/content/portfolios/_index.md" />
-        <option value="$PROJECT_DIR$/data/nav.toml" />
         <option value="$PROJECT_DIR$/data/portfolio.toml" />
         <option value="$PROJECT_DIR$/data/portfolios.toml" />
         <option value="$PROJECT_DIR$/data/projetcts.toml" />
@@ -110,6 +118,10 @@
         <option value="$PROJECT_DIR$/data/games.toml" />
         <option value="$PROJECT_DIR$/data/posts.toml" />
         <option value="$PROJECT_DIR$/data/projects.toml" />
+        <option value="$PROJECT_DIR$/data/nav.toml" />
+        <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/videos.html" />
+        <option value="$PROJECT_DIR$/content/videos/_index.md" />
+        <option value="$PROJECT_DIR$/data/videos.toml" />
       </list>
     </option>
   </component>
@@ -135,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,12 +157,24 @@
             <path>
               <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
               <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
+              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="matheuscastiglioni" type="b2602c69:ProjectViewProjectNode" />
+              <item name="matheuscastiglioni" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,19 +188,19 @@
     <property name="node.js.selected.package.prettier" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/img" />
-      <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials" />
-      <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes" />
-      <recent name="$PROJECT_DIR$/content" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/animactions" />
       <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets" />
       <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/static" />
       <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/static/css" />
       <recent name="$PROJECT_DIR$/content" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/content/videos" />
+      <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/img" />
+      <recent name="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -238,23 +261,25 @@
       <workItem from="1525884941724" duration="575000" />
       <workItem from="1526503083114" duration="505000" />
       <workItem from="1526557401866" duration="27000" />
+      <workItem from="1526681064180" duration="1006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46166000" />
+    <option name="totallyTimeSpent" value="47172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24781573" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24781573" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3387574" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3387574" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="SFDX" order="7" />
@@ -277,22 +302,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/static/assets/css/font.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="89" column="23" lean-forward="true" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/animacoes.html" />
-    <entry file="file://$PROJECT_DIR$/content/_index.md">
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/animacoes/_index.md" />
     <entry file="file://$PROJECT_DIR$/content/apps/_index.md" />
     <entry file="file://$PROJECT_DIR$/static/assets/img/apps/gorfeiscore.png" />
     <entry file="file://$PROJECT_DIR$/content/desenhos/_index.md" />
@@ -321,18 +330,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/_index.md" />
     <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/i18n/pt-BR.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/posts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="98" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
         </state>
       </provider>
     </entry>
@@ -355,13 +356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/nav.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -478,13 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/loop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/libraries-js.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -557,8 +544,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/posts.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        <state relative-caret-position="270">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/nav.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/animacoes/_index.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/_index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="98" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/loop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/videos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/videos/_index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/videos.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
         </state>
       </provider>
     </entry>
