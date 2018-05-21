@@ -1,7 +1,13 @@
 [animactions]
-    [css-grid-layout]
+    [video1]
+        cattegory = "CSS3"
+        excerpt = "Neste vídeo mostro como criar uma animação de loading com CSS3, esse efeito é muito bom para informar que uma requisição ou processamento está em andamento.."
+        link = "https://www.youtube.com/watch?v=fcadO6cTy1M"
+        name = "[Front-End] - Loading Animation com CSS3"
+        video = "https://www.youtube.com/embed/fcadO6cTy1M"
+    [video2]
         cattegory = "CSS3"
         excerpt = "Neste vídeo mostro como criar um layout utilizando a nova feature do CSS3 chamada CSS Grid Layout."
-        link = "https://vimeo.com/218637648"
+        link = "https://www.youtube.com/watch?v=HBlBNAtFcdw"
         name = "[Front-End] - CSS Grid Layout"
         video = "https://www.youtube.com/embed/HBlBNAtFcdw"
