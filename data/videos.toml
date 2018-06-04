@@ -1,17 +1,23 @@
 [animactions]
     [video1]
+        cattegory = "JavaScript"
+        excerpt = "Neste vídeo mostro como instalar e configurar o ESlint dentro de um novo projeto."
+        link = "https://www.youtube.com/watch?v=mj4V_GkGmv4"
+        name = "[Front-End] JavaScript - Configurando o ESlint"
+        video = "https://www.youtube.com/embed/mj4V_GkGmv4"
+    [video2]
         cattegory = "SASS"
         excerpt = "Neste vídeo mostro como utilizar variáveis com SASS, é o primeiro vídeo sobre da série sobre SASS..."
-        link = "https://www.youtube.com/watch?v=hlnQFaRw7h0&feature=youtu.be"
+        link = "https://www.youtube.com/watch?v=hlnQFaRw7h0"
         name = "[Front-End] SASS - Variáveis"
         video = "https://www.youtube.com/embed/hlnQFaRw7h0"
-    [video2]
+    [video3]
         cattegory = "CSS3"
         excerpt = "Neste vídeo mostro como criar uma animação de loading com CSS3, esse efeito é muito bom para informar que uma requisição ou processamento está em andamento.."
         link = "https://www.youtube.com/watch?v=fcadO6cTy1M"
         name = "[Front-End] - Loading Animation com CSS3"
         video = "https://www.youtube.com/embed/fcadO6cTy1M"
-    [video3]
+    [video4]
         cattegory = "CSS3"
         excerpt = "Neste vídeo mostro como criar um layout utilizando a nova feature do CSS3 chamada CSS Grid Layout."
         link = "https://www.youtube.com/watch?v=HBlBNAtFcdw"
