@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "08/06/2018 09:17"
+        excerpt = "Se você já utilizou vários editores de texto, também chamados de IDE's (Integrated Development Environment), deve ter notado que algumas vezes temos comportamentos diferentes entre eles. Por exemplo: Utilizando o editor de texto VSCode temos a indenta..."
+        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/06/padronizando-seus-editores-de-texto-com-editorconfig_5b19d05d5a1af_bg.jpg"
+        link = "http://blog.matheuscastiglioni.com.br/padronizando-seus-editores-de-texto-com-editorconfig"
+        title = "Padronizando seus editores de texto com EditorConfig"
+    [post2]
         date = "06/06/2018 08:47"
         excerpt = "Se você já trabalhou em algum projeto utilizando JavaScript com mais de uma pessoa desenvolvendo junto, com certeza, já deve ter enfrentado e passado por alguns pequenos problemas referente aos códigos. Isso é normal, afinal, todo mundo tem seus pró..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/06/padronizando-e-validando-codigos-com-eslint_5b1739985cc04_bg.jpg"
         link = "http://blog.matheuscastiglioni.com.br/padronizando-e-validando-codigos-com-eslint"
         title = "Padronizando e validando códigos com ESLint"
-    [post2]
+    [post3]
         date = "29/05/2018 09:20"
         excerpt = "Criar novos sites muitas vezes pode ser uma tarefa complicada e chata, precisa-se definir várias configurações e set-ups iniciais para o projeto. Com PHP isso tornou-se muito simples e fácil graças ao framework chamado Laravel. Conheça o Laravel O L..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/05/criando-meu-primeiro-site-com-laravel.jpg"
         link = "http://blog.matheuscastiglioni.com.br/criando-meu-primeiro-site-com-laravel"
         title = "Criando meu primeiro site com Laravel"
-    [post3]
+    [post4]
         date = "25/05/2018 09:29"
         excerpt = "Continuando a série de post's sobre organização de código CSS, vamos para mais um padrão (pattern) (também considerado um princípio), nesse post vou falar sobre o DRY CSS. Caso você tenha perdido os outros três primeiros, vou listá-l..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/05/organizando-seu-codigo-css-parte-04-dry-css.jpg"
         link = "http://blog.matheuscastiglioni.com.br/organizando-seu-codigo-css-parte-04-dry-css"
         title = "Organizando seu código CSS parte 04 - DRY CSS"
-    [post4]
+    [post5]
         date = "22/05/2018 08:36"
         excerpt = "Uma dúvida muito cómum para desenvolvedores front-end, é referente a utilização de ID's ou classes em nossas tag's HTML, vejo muitos se perguntando e postando dúvidas do tipo: Posso utilizar o ID? Posso utilizar classe? Devo utilizar ID ou classe? ..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/05/como-e-quando-utilizar-id-ou-classes-no-html.jpg"
         link = "http://blog.matheuscastiglioni.com.br/utilizando-id-ou-classes-no-html"
         title = "Utilizando ID ou classes no HTML"
-    [post5]
-        date = "17/05/2018 08:42"
-        excerpt = "A quantidade de sites e páginas na web crescem dia após dia, mas, junto com o crescimento da web também cresce os padrões, técnicas e principalmente melhores práticas de desenvolvimento. Uma dessas práticas que foi adicionada para a web seria dar s..."
-        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/05/meu-html-e-semantico-e-o-seu.jpg"
-        link = "http://blog.matheuscastiglioni.com.br/meu-html-e-semantico-e-o-seu"
-        title = "Meu HTML é semântico e o seu?"
