@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="79484dc6-b791-4370-8d50-bd0f1f638b19" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/posts.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/posts.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos.toml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="posts.toml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/posts.toml">
+      <file leaf-file-name="videos.toml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/videos.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+            <state relative-caret-position="45">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -109,8 +109,8 @@
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/videos.html" />
         <option value="$PROJECT_DIR$/content/videos/_index.md" />
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/page.html" />
-        <option value="$PROJECT_DIR$/data/videos.toml" />
         <option value="$PROJECT_DIR$/data/posts.toml" />
+        <option value="$PROJECT_DIR$/data/videos.toml" />
       </list>
     </option>
   </component>
@@ -136,7 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,6 +152,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,12 +249,13 @@
       <workItem from="1528134330818" duration="153000" />
       <workItem from="1528285720867" duration="227000" />
       <workItem from="1528371429936" duration="286000" />
-      <workItem from="1528460690291" duration="85000" />
+      <workItem from="1528460690291" duration="682000" />
+      <workItem from="1528804200163" duration="156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49073000" />
+    <option name="totallyTimeSpent" value="49826000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -264,12 +265,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3387574" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3387574" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="SFDX" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -569,17 +570,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/videos.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/posts.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/videos.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
