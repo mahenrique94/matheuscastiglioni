@@ -1,31 +1,31 @@
 [animactions]
     [video1]
+        cattegory = "React"
+        excerpt = "Neste vídeo mostro como criar o seu primeiro projeto utilizando o create-react-app, um cli para criar projetos em React."
+        link = "https://www.youtube.com/watch?v=FkzTsQ2whdk"
+        name = "[Front-End] React - Criando meu primeiro projeto"
+        video = "https://www.youtube.com/embed/FkzTsQ2whdk"
+    [video2]
         cattegory = "Android"
         excerpt = "Neste vídeo mostro como consumir um web service nativamente com Android, ou seja, sem utilização de bibliotecas..."
         link = "https://www.youtube.com/watch?v=_HSXZN3LZQg"
         name = "[Mobile] Android - Consumindo Web Service Nativamente"
         video = "https://www.youtube.com/embed/_HSXZN3LZQg"
-    [video2]
+    [video3]
         cattegory = "Configuração"
         excerpt = "Neste vídeo mostro como instalar e configurar o EditorConfig, com ele conseguimos definir configurações..."
         link = "https://www.youtube.com/watch?v=Hg2OXg1jHpE"
         name = "Definindo configurações para arquivos de um projeto"
         video = "https://www.youtube.com/embed/Hg2OXg1jHpE"
-    [video3]
+    [video4]
         cattegory = "JavaScript"
         excerpt = "Neste vídeo mostro como instalar e configurar o Husky dentro de um novo projeto, dessa maneira..."
         link = "https://www.youtube.com/watch?v=LRDWXtmU6bA"
         name = "[Front-End] JavaScript - Configurando o Husky"
         video = "https://www.youtube.com/embed/LRDWXtmU6bA"
-    [video4]
+    [video5]
         cattegory = "JavaScript"
         excerpt = "Neste vídeo mostro como instalar e configurar o ESlint dentro de um novo projeto."
         link = "https://www.youtube.com/watch?v=mj4V_GkGmv4"
         name = "[Front-End] JavaScript - Configurando o ESlint"
         video = "https://www.youtube.com/embed/mj4V_GkGmv4"
-    [video5]
-        cattegory = "SASS"
-        excerpt = "Neste vídeo mostro como utilizar variáveis com SASS, é o primeiro vídeo sobre da série sobre SASS..."
-        link = "https://www.youtube.com/watch?v=hlnQFaRw7h0"
-        name = "[Front-End] SASS - Variáveis"
-        video = "https://www.youtube.com/embed/hlnQFaRw7h0"
