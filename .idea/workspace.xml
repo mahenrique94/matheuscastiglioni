@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="79484dc6-b791-4370-8d50-bd0f1f638b19" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/videos.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/posts.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/posts.toml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="videos.toml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/videos.toml">
+      <file leaf-file-name="posts.toml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/posts.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="80">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -109,8 +109,8 @@
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/videos.html" />
         <option value="$PROJECT_DIR$/content/videos/_index.md" />
         <option value="$PROJECT_DIR$/themes/matheuscastiglioni/layouts/partials/page.html" />
-        <option value="$PROJECT_DIR$/data/posts.toml" />
         <option value="$PROJECT_DIR$/data/videos.toml" />
+        <option value="$PROJECT_DIR$/data/posts.toml" />
       </list>
     </option>
   </component>
@@ -248,12 +248,13 @@
       <workItem from="1528804200163" duration="206000" />
       <workItem from="1528977153463" duration="111000" />
       <workItem from="1529062453758" duration="391000" />
-      <workItem from="1529408125763" duration="64000" />
+      <workItem from="1529408125763" duration="128000" />
+      <workItem from="1529494780461" duration="103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50442000" />
+    <option name="totallyTimeSpent" value="50609000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -266,7 +267,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3387574" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3387574" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="SFDX" order="7" />
@@ -532,13 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/posts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="98" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/loop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -568,17 +562,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/posts.toml">
+    <entry file="file://$PROJECT_DIR$/data/videos.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/videos.toml">
+    <entry file="file://$PROJECT_DIR$/themes/matheuscastiglioni/layouts/shortcodes/posts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/posts.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
