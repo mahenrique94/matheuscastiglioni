@@ -1,31 +1,31 @@
 [animactions]
     [video1]
+        cattegory = "React"
+        excerpt = "Neste vídeo mostro como criar um componente de To-Do List, nele vemos algumas funcionalidades e recursos do React..."
+        link = "https://www.youtube.com/watch?v=4r74QbeQ5C4"
+        name = "[Front-End] React - Criando um component To-Do List com React"
+        video = "https://www.youtube.com/embed/4r74QbeQ5C4"
+    [video2]
         cattegory = "Angular"
         excerpt = "Neste vídeo mostro como criar um projeto do zero utilizando a nova versão do Angular, ou seja, criamos um novo projeto Angular 6..."
         link = "https://www.youtube.com/watch?v=IdRl_NRJLc8"
         name = "[Front-End] Angular - Criando meu primeiro projeto com Angular 6"
         video = "https://www.youtube.com/embed/IdRl_NRJLc8"
-    [video2]
+    [video3]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como criar o seu primeiro projeto utilizando o create-react-app, um cli para criar projetos em React."
         link = "https://www.youtube.com/watch?v=FkzTsQ2whdk"
         name = "[Front-End] React - Criando meu primeiro projeto"
         video = "https://www.youtube.com/embed/FkzTsQ2whdk"
-    [video3]
+    [video4]
         cattegory = "Android"
         excerpt = "Neste vídeo mostro como consumir um web service nativamente com Android, ou seja, sem utilização de bibliotecas..."
         link = "https://www.youtube.com/watch?v=_HSXZN3LZQg"
         name = "[Mobile] Android - Consumindo Web Service Nativamente"
         video = "https://www.youtube.com/embed/_HSXZN3LZQg"
-    [video4]
+    [video5]
         cattegory = "Configuração"
         excerpt = "Neste vídeo mostro como instalar e configurar o EditorConfig, com ele conseguimos definir configurações..."
         link = "https://www.youtube.com/watch?v=Hg2OXg1jHpE"
         name = "Definindo configurações para arquivos de um projeto"
         video = "https://www.youtube.com/embed/Hg2OXg1jHpE"
-    [video5]
-        cattegory = "JavaScript"
-        excerpt = "Neste vídeo mostro como instalar e configurar o Husky dentro de um novo projeto, dessa maneira..."
-        link = "https://www.youtube.com/watch?v=LRDWXtmU6bA"
-        name = "[Front-End] JavaScript - Configurando o Husky"
-        video = "https://www.youtube.com/embed/LRDWXtmU6bA"
