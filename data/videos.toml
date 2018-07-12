@@ -1,31 +1,31 @@
 [animactions]
     [video1]
+        cattegory = "CSS3"
+        excerpt = "Neste vídeo mostro como criar começar a criar e dar seus primeiros passos com a arquitetura OOCSS (CSS Orientado á Objetos)."
+        link = "https://www.youtube.com/watch?v=ORrieYyipbc"
+        name = "[Front-End] Arquitetura CSS - OOCSS"
+        video = "https://www.youtube.com/embed/ORrieYyipbc"
+    [video2]
         cattegory = "Angular"
         excerpt = "Neste vídeo mostro como criar um componente simulando um To-Do List, onde é listado uma lista de tarefas e podendo..."
         link = "https://www.youtube.com/watch?v=EFG7_mWaeNg"
         name = "[Front-End] Angular - Criando component de To Do List"
         video = "https://www.youtube.com/embed/EFG7_mWaeNg"
-    [video2]
+    [video3]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como criar um componente de To-Do List, nele vemos algumas funcionalidades e recursos do React..."
         link = "https://www.youtube.com/watch?v=4r74QbeQ5C4"
         name = "[Front-End] React - Criando um component To-Do List com React"
         video = "https://www.youtube.com/embed/4r74QbeQ5C4"
-    [video3]
+    [video4]
         cattegory = "Angular"
         excerpt = "Neste vídeo mostro como criar um projeto do zero utilizando a nova versão do Angular, ou seja, criamos um novo projeto Angular 6..."
         link = "https://www.youtube.com/watch?v=IdRl_NRJLc8"
         name = "[Front-End] Angular - Criando meu primeiro projeto com Angular 6"
         video = "https://www.youtube.com/embed/IdRl_NRJLc8"
-    [video4]
+    [video5]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como criar o seu primeiro projeto utilizando o create-react-app, um cli para criar projetos em React."
         link = "https://www.youtube.com/watch?v=FkzTsQ2whdk"
         name = "[Front-End] React - Criando meu primeiro projeto"
         video = "https://www.youtube.com/embed/FkzTsQ2whdk"
-    [video5]
-        cattegory = "Android"
-        excerpt = "Neste vídeo mostro como consumir um web service nativamente com Android, ou seja, sem utilização de bibliotecas..."
-        link = "https://www.youtube.com/watch?v=_HSXZN3LZQg"
-        name = "[Mobile] Android - Consumindo Web Service Nativamente"
-        video = "https://www.youtube.com/embed/_HSXZN3LZQg"
