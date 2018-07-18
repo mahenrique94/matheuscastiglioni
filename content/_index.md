@@ -22,8 +22,15 @@ Hoje a mais ou menos dois anos e meio sou Desenvolvedor *Full Stack* e um apaixo
 ## <i class="fa fa-briefcase o-content__icon"></i> Experiências
 
 ### <i class="fa fa-desktop"></i> Desenvolvedor Front End
-##### [Logicalis](https://www.la.logicalis.com/pt-Latam/)
+##### [Dextra](http://dextra.com.br/pt/)
 <span class="o-content__period">2018 - até o momento</span>
+Desenvolvimento de sistemas web.
+
+<div class="l-separator"></div>
+
+### <i class="fa fa-desktop"></i> Desenvolvedor Front End
+##### [Logicalis](https://www.la.logicalis.com/pt-Latam/)
+<span class="o-content__period">2018 - 2018</span>
 Desenvolvimento de sistemas web.
 
 <div class="l-separator"></div>
