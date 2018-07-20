@@ -2,9 +2,9 @@
     [video1]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como documentar seus componentes de forma simples, fácil e rápido utilizando a biblioteca Docz."
-        link = "https://www.youtube.com/watch?v=lPGcGSj2jWo"
+        link = "https://www.youtube.com/watch?v=32JOKZo5wSs"
         name = "[Front-End] React - Documentando componentes com Docz"
-        video = "https://www.youtube.com/embed/lPGcGSj2jWo"
+        video = "https://www.youtube.com/embed/32JOKZo5wSs"
     [video2]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como estilizar elementos com CSS dentro do JavaScript utilizando a biblioteca Styled Components."
