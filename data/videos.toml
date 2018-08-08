@@ -1,31 +1,31 @@
 [animactions]
     [video1]
+        cattegory = "TypeScript"
+        excerpt = "Neste vídeo mostro uma pequena introdução referente ao TypeScript, nele é criado uma classe utilizando alguns dos possíveis..."
+        link = "https://www.youtube.com/watch?v=NXwKVaJojSY"
+        name = "[Front-End] TypeScript - Dando os primeiros passos"
+        video = "https://www.youtube.com/embed/NXwKVaJojSY"
+    [video2]
         cattegory = "CSS3"
         excerpt = "Neste vídeo mostro como utilizar a estruturar seu projeto através da metodologia BEM."
         link = "https://www.youtube.com/watch?v=yKPXW9aSxQI"
         name = "[Front-End] Arquitetura CSS - BEM"
         video = "https://www.youtube.com/embed/yKPXW9aSxQI"
-    [video2]
+    [video3]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como documentar seus componentes de forma simples, fácil e rápido utilizando a biblioteca Docz."
         link = "https://www.youtube.com/watch?v=32JOKZo5wSs"
         name = "[Front-End] React - Documentando componentes com Docz"
         video = "https://www.youtube.com/embed/32JOKZo5wSs"
-    [video3]
+    [video4]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como estilizar elementos com CSS dentro do JavaScript utilizando a biblioteca Styled Components."
         link = "https://www.youtube.com/watch?v=zNn255_BOvk"
         name = "[Front-End] React - Estilizando componentes com Styled Components"
         video = "https://www.youtube.com/embed/zNn255_BOvk"
-    [video4]
+    [video5]
         cattegory = "CSS3"
         excerpt = "Neste vídeo mostro como criar começar a criar e dar seus primeiros passos com a arquitetura OOCSS (CSS Orientado á Objetos)."
         link = "https://www.youtube.com/watch?v=ORrieYyipbc"
         name = "[Front-End] Arquitetura CSS - OOCSS"
         video = "https://www.youtube.com/embed/ORrieYyipbc"
-    [video5]
-        cattegory = "Angular"
-        excerpt = "Neste vídeo mostro como criar um componente simulando um To-Do List, onde é listado uma lista de tarefas e podendo..."
-        link = "https://www.youtube.com/watch?v=EFG7_mWaeNg"
-        name = "[Front-End] Angular - Criando component de To Do List"
-        video = "https://www.youtube.com/embed/EFG7_mWaeNg"
