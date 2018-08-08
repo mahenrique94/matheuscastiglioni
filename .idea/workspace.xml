@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79484dc6-b791-4370-8d50-bd0f1f638b19" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/videos.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/videos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/videos/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,6 +21,7 @@
     <session id="1808615581">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -50,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/videos.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="59" lean-forward="true" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+            <state relative-caret-position="75">
+              <caret line="5" column="49" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -285,16 +288,15 @@
       <workItem from="1531913866358" duration="268000" />
       <workItem from="1532007859146" duration="635000" />
       <workItem from="1532085848698" duration="45000" />
-      <workItem from="1533045662282" duration="84000" />
+      <workItem from="1533045662282" duration="133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53052000" />
+    <option name="totallyTimeSpent" value="53101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2473573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -620,8 +622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/videos.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="59" lean-forward="true" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+        <state relative-caret-position="75">
+          <caret line="5" column="49" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="49" />
         </state>
       </provider>
     </entry>
