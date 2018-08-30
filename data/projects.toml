@@ -47,6 +47,12 @@
         link = "https://github.com/mahenrique94/miniflix"
         image = "http://res.cloudinary.com/mahenrique94/image/upload/v1511633978/em-construcao_azdhta.jpg"
         name = "Miniflix (em desenvolvimento)"
+    [myreads]
+        cattegory = "React"
+        excerpt = "My Reads é um projeto para controlar estantes de livros, projeto feito para finalizar o primeiro módulo do Nanodegree da Udacity"
+        link = "https://github.com/mahenrique94/udacity-my-reads"
+        image = "http://res.cloudinary.com/mahenrique94/image/upload/v1535634562/Screen_Shot_2018-08-30_at_10.08.18_iq6wqg.png"
+        name = "My Reads"
     [picketdt]
         cattegory = "HTML, CSS e JavaScript"
         excerpt = "Calendário para manipular data e horas"
