@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "30/11/2018 08:29"
+        excerpt = "A maioria dos aplicativos feitos com a biblioteca React, terão seus arquivos empacotados, esse empacotamento pode ser feito com ferramentas de empacotação, por exemplo: Webpack ou Parcel (além de outras). Realizar o cmpacotamento de uma aplicação é..."
+        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/11/code-splitting-e-lazy-loading-no-react_5c0081c6a16d0_bg.jpg"
+        link = "http://blog.matheuscastiglioni.com.br/code-splitting-e-lazy-loading-no-react"
+        title = "Code splitting e lazy loading no React"
+    [post2]
+        date = "27/11/2018 11:19"
+        excerpt = "Geralmente durante o uso de softwares muitas funções devem/são executadas, indo um pouco mais além, dificilmente você irá ver um sistema (seja web ou desktop) que não possua pelo menos uma função. Imagine que estamos trabalhando em um sistema na ..."
+        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/11/limitando-execucao-de-funcao-com-takeuntil_5bf5dc2a6053e_bg.jpg"
+        link = "http://blog.matheuscastiglioni.com.br/limitando-execucao-de-funcao-com-takeuntil"
+        title = "Limitando execução de função com takeUntil"
+    [post3]
         date = "14/11/2018 10:18"
         excerpt = "Performance e desempenho geralmente são grandes questões para levarmos em consideração durante a usabilidade de nossos webapp's ou sites. Construir um webapp que seja performático e garantir uma boa usabilidade para os usuários do mesmo, nem sempre ..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/11/otimizando-componentes-do-react-com-purecomponent_5beb52ac02b51_bg.jpg"
         link = "http://blog.matheuscastiglioni.com.br/otimizando-componentes-do-react-com-purecomponent"
         title = "Otimizando componentes do React com PureComponent"
-    [post2]
+    [post4]
         date = "30/10/2018 09:53"
         excerpt = "Pois é, você já deve ter ouvido falar em ambos os termos, sendo eles: Imperativo x Declarativo, mas, afinal o que isso impacta no mundo de desenvolvimento? Podemos escrever nossos códigos das duas maneiras, ou seja, nosso código pode ser Imperativo o..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/10/programacao-imperativa-x-declarativa_5bd79fa2402bf_bg.jpg"
         link = "http://blog.matheuscastiglioni.com.br/programacao-imperativa-x-declarativa"
         title = "Programação Imperativa x Declarativa"
-    [post3]
+    [post5]
         date = "24/09/2018 15:41"
         excerpt = "Sim, eu sei, Shadow DOM está um pouco ultrapassado, talvez seu uso seja muito pouco, porém, nesse post vou explicar como ele funciona e vamos criar um componente (também chamado de web component), em outras palavras, seria uma tag customizada que irá ..."
         image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/09/tag-customizada-com-shadow-dom_5ba6ef64a0bb2_bg.jpg"
         link = "http://blog.matheuscastiglioni.com.br/criando-componente-com-shadow-dom"
         title = "Criando componente com Shadow DOM"
-    [post4]
-        date = "30/08/2018 09:58"
-        excerpt = "Imagine que temos um projeto em andamento, porém, precisamos adicionar uma nova funcionalidade em um de nossos componentes, hoje temos nossa árvore de componentes da seguinte maneira: <App> <ComponenteA> <ComponenteFilhoA> ..."
-        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/08/trabalhando-com-eventos-no-javascript_5b87d6bf91b12_bg.jpg"
-        link = "http://blog.matheuscastiglioni.com.br/trabalhando-com-eventos-no-javascript"
-        title = "Trabalhando com eventos no JavaScript"
-    [post5]
-        date = "08/08/2018 10:10"
-        excerpt = "Continuando a série de post's sobre React, no post anterior eu expliquei com mais detalhes o funcionamento da função setState e mostrei possíveis maneiras que podemos estar a utilizando. Para assunto desse post irei explicar como referenciar component..."
-        image = "http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/08/referenciando-componentes-no-react_5b6a3230e39a8_bg.jpg"
-        link = "http://blog.matheuscastiglioni.com.br/referenciando-componentes-no-react"
-        title = "Referenciando componentes no React"
