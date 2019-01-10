@@ -1,16 +1,19 @@
 [community]
     [community1]
+        excerpt = "Preparação e desenvolvimento de novos cursos para a plataforma"
+        title = "Instrutor na Alura"
+    [community2]
         excerpt = "Ajudo os alunos que ficam com dúvidas ou passam por problema durante a realização de seus cursos"
         title = "Moderador no fórum da Alura"
-    [community2]
+    [community3]
         excerpt = "Mentor de pupílos no projeto Mentoria realizado pela Traning Center, se você esta precisando de ajuda para algum projeto, venha ser um pupílo"
         title = "Mentor na Training Center"
-    [community3]
+    [community4]
         excerpt = "Escrevo artigos sobre tecnologia e programação no blog da Alura"
         title = "Escritor no blog da Alura"
-    [community4]
+    [community5]
         excerpt = "Escrevo artigos sobre tecnologia e programação no medium da CollabCode"
         title = "Escritor na CollabCode"
-    [community5]
+    [community6]
         excerpt = "Escrevo artigos sobre tecnologia e programação no medium da Training Center"
         title = "Escritor na Training Center"

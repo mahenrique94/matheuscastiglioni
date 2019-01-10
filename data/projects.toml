@@ -17,12 +17,24 @@
         link = "https://mahenrique94.github.io/cardapio-marmitex/"
         image = "http://res.cloudinary.com/mahenrique94/image/upload/v1511805920/cardapio-marmitex_fanx4b.png"
         name = "Cardápio Marmitex"
+    [jdiff]
+        cattegory = "NodeJS"
+        excerpt = "Biblioteca Node para realizar a comparação entre dois objetos JSON e mostrar a diferença."
+        link = "Arquitetura CSS"
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1547121378/jdiff_hewili.jpg"
+        name = "Jdiff"
     [jlib]
         cattegory = "JavaScript"
         excerpt = "Biblioteca JavaScript para meus projetos particulares"
         link = "http://jlib.matheuscastiglioni.com.br/"
         image = "http://res.cloudinary.com/mahenrique94/image/upload/v1511633978/em-construcao_azdhta.jpg"
         name = "Jlib (em desenvolvimento)"
+    [leitura]
+        cattegory = "React"
+        excerpt = "Site para gerenciar post's, parecido com um mini blog, projeto feito para o Nanodegree da Udacity."
+        link = "https://github.com/mahenrique94/udacity-leitura"
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1547121803/Screen_Shot_2019-01-10_at_09.59.19_blf5kf.png"
+        name = "Leitura"
     [mdown]
         cattegory = "HTML5, CSS3 e JavaScript"
         excerpt = "Editor de texto em MarkDown"
@@ -47,6 +59,12 @@
         link = "https://github.com/mahenrique94/miniflix"
         image = "http://res.cloudinary.com/mahenrique94/image/upload/v1511633978/em-construcao_azdhta.jpg"
         name = "Miniflix (em desenvolvimento)"
+    [mymusic]
+        cattegory = "Angular"
+        excerpt = "My Music é um aplicativo para buscar playlists ou artistas."
+        link = "https://github.com/mahenrique94/mymusic-frontend"
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1547122164/Screen_Shot_2019-01-10_at_10.07.20_nu9g2n.png"
+        name = "My Music"
     [myreads]
         cattegory = "React"
         excerpt = "My Reads é um projeto para controlar estantes de livros, projeto feito para finalizar o primeiro módulo do Nanodegree da Udacity"

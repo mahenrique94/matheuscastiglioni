@@ -27,3 +27,7 @@
         name = "Twitter"
         icon = "twitter-square"
         url = "https://twitter.com/mahenrique94"
+    [youtub]
+        name = "Youtube"
+        icon = "youtube-square"
+        url = "https://www.youtube.com/channel/UCSrG4Y5uz0dcSfi_2qMQdGQ"

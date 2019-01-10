@@ -4,11 +4,6 @@
         icon = "image"
         slug = "desenhos"
         url = "/desenhos/"
-    [animacoes]
-        name = "Animações"
-        icon = "film"
-        slug = "animacoes"
-        url = "/animacoes/"
     [aplicativos]
         name = "Aplicativos"
         icon = "mobile"

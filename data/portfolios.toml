@@ -1,7 +1,1 @@
 [portfolios]
-    [playpix]
-        cattegory = "PHP"
-        excerpt = "Site de notícias sobre Animes, Filmes, Jogos, Séries e Tecnologia"
-        link = "https://www.playpix.com.br/"
-        image = "http://res.cloudinary.com/mahenrique94/image/upload/v1511636493/playpix_hw2kbi.png"
-        name = "Playpix"

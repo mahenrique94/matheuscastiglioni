@@ -1,4 +1,10 @@
 [apps]
+    [flashcards]
+        cattegory = "React Native"
+        excerpt = "Aplicativo para iOS e Android para criação de baralhos e cartões com perguntas e respostas."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1547122653/Simulator_Screen_Shot_-_iPhone_XS_Max_-_2019-01-10_at_10.16.04_hmztgn.png"
+        link = "https://github.com/mahenrique94/udacity-flash-cards"
+        name = "Flash Cards"
     [gorfeiscore]
         cattegory = "Android - Kotlin"
         excerpt = "Marcar pontuação dos jogadores no jogo Gorfei"
