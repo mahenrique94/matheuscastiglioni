@@ -1,31 +1,31 @@
 [videos]
     [video1]
         cattegory = "JavaScript"
+        excerpt = "Neste vídeo mostro como realizar timeout com promises."
+        link = "https://www.youtube.com/watch?v=jD0gxbhANY8"
+        name = "[Front-End] JavaScript - Promises com timeout"
+        video = "https://www.youtube.com/embed/jD0gxbhANY8"
+    [video2]
+        cattegory = "JavaScript"
         excerpt = "Neste vídeo mostro como criar seus primeiros gráficos utilizando a biblioteca de gráficos da Google."
         link = "https://www.youtube.com/watch?v=Q_zy6Dx7Mjk"
         name = "[Front-End] JavaScript - Criando gráficos com Google Charts"
         video = "https://www.youtube.com/embed/Q_zy6Dx7Mjk"
-    [video2]
+    [video3]
         cattegory = "Arquitetura CSS"
         excerpt = "Neste vídeo mostro como funciona o guia, metodologia e normatização referente ao SMACSS."
-        link = "https://www.youtube.com/watch?v="
+        link = "https://www.youtube.com/watch?v=0Nm8VoCN-M8"
         name = "[Front-End] Arquitetura CSS - SMACSS"
-        video = "https://www.youtube.com/embed/"
-    [video3]
+        video = "https://www.youtube.com/embed/0Nm8VoCN-M8"
+    [video4]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como começar a dar os primeiros passos e usos com os Hooks do React, uma nova feature que ainda está em versão alpha."
         link = "https://www.youtube.com/watch?v=yzGH3qy-iFU"
         name = "[Front-End] React - Simplificando componentes com Hooks"
         video = "https://www.youtube.com/embed/yzGH3qy-iFU"
-    [video4]
+    [video5]
         cattegory = "Angular"
         excerpt = "Neste vídeo mostro como criar um Pipe para realizar ordenações em um array."
-        link = "https://www.youtube.com/watch?v="
+        link = "https://www.youtube.com/watch?v=GYRMKp4pBO8"
         name = "[Front-End] Angular - Ordenando lista com Pipe"
-        video = "https://www.youtube.com/embed/"
-    [video5]
-        cattegory = "ParcelJS"
-        excerpt = "Neste vídeo mostro como realizar o empacotamento de suas aplicações web através da biblioteca ParcelJS."
-        link = "https://www.youtube.com/watch?v="
-        name = "[Front-End] JavaScript - Empacotando aplicações com ParcelJS"
-        video = "https://www.youtube.com/embed/"
+        video = "https://www.youtube.com/embed/GYRMKp4pBO8"
