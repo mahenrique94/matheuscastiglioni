@@ -1,8 +1,8 @@
 # matheuscastiglioni
-Meu site pessoal
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8865bf1b-28b0-478c-9d23-d0bf1fc9d504/deploy-status)](https://app.netlify.com/sites/matheuscastiglioni/deploys)
 
-Site pessoal para divulgar meus projetos, trabalhos, grupos e perfil profissional.
+My personal website
 
-Escrito em: Hugo com HTML5, CSS3.
+Made with: Hugo com HTML5, CSS3.
 
 [Matheus Castiglioni](http://www.matheuscastiglioni.com.br/)
