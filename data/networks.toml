@@ -7,10 +7,6 @@
         name = "Gitub"
         icon = "github-square"
         url = "https://github.com/mahenrique94"
-    [googleplus]
-        name = "Google Plus"
-        icon = "google-plus-square"
-        url = "https://plus.google.com/116607343343494563581"
     [instagram]
         name = "Instagram"
         icon = "instagram"
@@ -27,6 +23,10 @@
         name = "Twitter"
         icon = "twitter-square"
         url = "https://twitter.com/mahenrique94"
+    [twitch]
+        name = "Twitch"
+        icon = "twitch"
+        url = "https://www.twitch.tv/mahenrique94"
     [youtub]
         name = "Youtube"
         icon = "youtube-square"
