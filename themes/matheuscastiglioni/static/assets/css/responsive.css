@@ -28,6 +28,10 @@
     .o-posts__post___info____title {
         font-size: 1.25rem;
     }
+
+    .o-courses__course {
+        width: 100%;
+    }
 }
 @media screen and (min-width: 768px) {
     h3 {
@@ -60,5 +64,13 @@
         font-size: 1.5rem;
     }
 }
-/*@media screen and (min-width: 992px) {  }*/
-/*@media screen and (min-width: 1200px) {  }*/
+@media screen and (min-width: 1100px) {
+    .o-courses__course {
+        width: calc(50% - 2rem);
+    }
+}
+@media screen and (min-width: 1500px) {
+    .o-courses__course {
+        width: calc(33.33% - 2rem);
+    }
+}

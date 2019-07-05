@@ -1,31 +1,31 @@
 [videos]
     [video1]
         cattegory = "React"
+        excerpt = "Neste vídeo mostro como sincronizar as informações do Redux de maneira offline."
+        link = "https://www.youtube.com/watch?v=V9sdqyph6qs"
+        name = "[BR][Front-End] React - Sincronizando Redux offline"
+        video = "https://www.youtube.com/embed/V9sdqyph6qs"
+    [video2]
+        cattegory = "React"
+        excerpt = "Neste vídeo mostro como utilizar e integrar os Hooks do React com o Redux."
+        link = "https://www.youtube.com/watch?v=tvspPI8aWU8"
+        name = "[Front-End] React - Integrando Redux com Hooks"
+        video = "https://www.youtube.com/embed/tvspPI8aWU8"
+    [video3]
+        cattegory = "React"
+        excerpt = "Neste vídeo mostro como criar seus primeiros testes funcionais utilizando a biblioteca react-testing-library."
+        link = "https://www.youtube.com/watch?v=sdkgUu5hr6g"
+        name = "[Front-End] React - Testando interfaces com react-testing-library"
+        video = "https://www.youtube.com/embed/sdkgUu5hr6g"
+    [video4]
+        cattegory = "React"
         excerpt = "Neste vídeo mostro como trabalhar com rotas assíncronas utilizando a biblioteca react-navi."
         link = "https://www.youtube.com/watch?v=dzX73Ay0Q6c"
         name = "[Front-End] React - Rotas assíncronas com react-navi"
         video = "https://www.youtube.com/embed/dzX73Ay0Q6c"
-    [video2]
+    [video5]
         cattegory = "Svelte"
         excerpt = "Neste vídeo apresento o Svelte e mostro como dar os seus primeiros passos criando um componente de Todo List."
         link = "https://www.youtube.com/watch?v=EMy7e890wIQ"
         name = "[Front-End] Svelte - Criando um componente de Todo List"
         video = "https://www.youtube.com/embed/EMy7e890wIQ"
-    [video3]
-        cattegory = "Imba"
-        excerpt = "Neste vídeo mostro como criar um simples Todo List e dar os primeiros passos na utiização do Imba."
-        link = "https://www.youtube.com/watch?v=Vemrn61t6as"
-        name = "[Front-End] Imba - Primeiros passos com Todo List"
-        video = "https://www.youtube.com/embed/Vemrn61t6as"
-    [video4]
-        cattegory = "JavaScript"
-        excerpt = "Neste vídeo mostro como carregar imagens em navegadores de forma lazy."
-        link = "https://www.youtube.com/watch?v=qlXbxg13h0E"
-        name = "[Front-End] JavaScript - Carregando imagens de forma lazy"
-        video = "https://www.youtube.com/embed/qlXbxg13h0E"
-    [video5]
-        cattegory = "React"
-        excerpt = "Neste vídeo mostro como adicionar e configurar o redux-thunk em um projeto que utiliza redux."
-        link = "https://www.youtube.com/watch?v="
-        name = "[Front-End] React - Configurando o Redux com redux-thunk #03"
-        video = "https://www.youtube.com/embed/"

@@ -4,5 +4,11 @@
 [button-visualizar]
     other = "Visualizar"
 
+[button-visualizar-curso]
+    other = "Visualizar Curso"
+
 [button-visualizar-todos]
     other = "Visualizar Todos"
+
+[label-ultima-atualizacao]
+    other = "Atualizado em: "

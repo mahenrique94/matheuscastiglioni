@@ -1,0 +1,23 @@
+<div class="o-courses">
+    {{ range .Site.Data.courses }}
+        {{ if .name }}
+            <div class="o-courses__course">
+                <div class="o-courses__course___thumbnail" style="background-image: url({{ .image }});"></div>
+                <div class="o-courses__course___content">
+                    <div class="o-courses__course___info">
+                        <a class="o-courses__course___info____title" href="{{ .link }}" target="_blank">{{ .name }}</a>
+                        <span class="o-courses__course___info____category">{{ .category }}</span>
+                    </div>
+                    <p class="o-courses__course___content____excerpt">{{ .excerpt }}</p>
+                    <div class="o-courses__course___row">
+                        <a class="o-courses__course___link" href="{{ .link }}" target="_blank">{{ i18n "button-visualizar-curso" }}</a>
+                        <time class="o-courses__course___info____date">
+                            {{ i18n "label-ultima-atualizacao" }}
+                            {{ .updatedAt }}
+                        </time>
+                    </div>
+                </div>
+            </div>
+        {{ end }}
+    {{ end }}
+</div>

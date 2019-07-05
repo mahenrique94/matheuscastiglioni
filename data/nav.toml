@@ -14,6 +14,11 @@
         icon = "newspaper-o"
         slug = "blog"
         url = "/blog/"
+    [cursos]
+        name = "Cursos"
+        icon = "graduation-cap"
+        slug = "cursos"
+        url = "/cursos/"
     [jogos]
         name = "Jogos"
         icon = "gamepad"
