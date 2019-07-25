@@ -1,31 +1,37 @@
 [videos]
     [video1]
+        cattegory = "Vue"
+        excerpt = "Neste vídeo mostro como configurar e gerenciar estado com Vuex em aplicações Vue."
+        link = "https://www.youtube.com/watch?v=qq8yJmXys6U"
+        name = "[Front-End] Vue - Gerenciando estado com Vuex"
+        video = "https://www.youtube.com/embed/qq8yJmXys6U"
+    [video2]
+        cattegory = "React"
+        excerpt = "Neste vídeo mostro como deixar os reducers do redux imutáveis utilizando a biblioteca Immer."
+        link = "https://www.youtube.com/watch?v=zodo8m7mc9w"
+        name = "[Front-End] React - Reducers imutáveis com Immer"
+        video = "https://www.youtube.com/embed/zodo8m7mc9w"
+    [video3]
+        cattegory = "JavaScript"
+        excerpt = "Neste vídeo mostro como criar uma implementação própria do Array em JavaScript."
+        link = "https://www.youtube.com/watch?v=AB-t472-yx4"
+        name = "[Front-End] JavaScript - Criando o meu próprio Array"
+        video = "https://www.youtube.com/embed/AB-t472-yx4"
+    [video4]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como sincronizar as informações do Redux de maneira offline."
         link = "https://www.youtube.com/watch?v=V9sdqyph6qs"
         name = "[BR][Front-End] React - Sincronizando Redux offline"
         video = "https://www.youtube.com/embed/V9sdqyph6qs"
-    [video2]
+    [video5]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como utilizar e integrar os Hooks do React com o Redux."
         link = "https://www.youtube.com/watch?v=tvspPI8aWU8"
         name = "[Front-End] React - Integrando Redux com Hooks"
         video = "https://www.youtube.com/embed/tvspPI8aWU8"
-    [video3]
+    [video6]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como criar seus primeiros testes funcionais utilizando a biblioteca react-testing-library."
         link = "https://www.youtube.com/watch?v=sdkgUu5hr6g"
         name = "[Front-End] React - Testando interfaces com react-testing-library"
         video = "https://www.youtube.com/embed/sdkgUu5hr6g"
-    [video4]
-        cattegory = "React"
-        excerpt = "Neste vídeo mostro como trabalhar com rotas assíncronas utilizando a biblioteca react-navi."
-        link = "https://www.youtube.com/watch?v=dzX73Ay0Q6c"
-        name = "[Front-End] React - Rotas assíncronas com react-navi"
-        video = "https://www.youtube.com/embed/dzX73Ay0Q6c"
-    [video5]
-        cattegory = "Svelte"
-        excerpt = "Neste vídeo apresento o Svelte e mostro como dar os seus primeiros passos criando um componente de Todo List."
-        link = "https://www.youtube.com/watch?v=EMy7e890wIQ"
-        name = "[Front-End] Svelte - Criando um componente de Todo List"
-        video = "https://www.youtube.com/embed/EMy7e890wIQ"

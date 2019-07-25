@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "24 de Julho de 2019 às 21:18"
+        excerpt = "Desenvolver aplicativos nativos para multiplataformas pode não ser uma tarefa tão simples quanto parece, será necessário que o desenvolvedor tenha conhecimento de pelo menos duas linguagens, a linguagem da plataforma A e a linguagem da plataforma B...."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1564014096/react-native_lakcvh.png"
+        link = "https://blog.matheuscastiglioni.com.br/react-native-e-nativo/"
+        title = "React Native é nativo?"
+    [post2]
+        date = "18 de Julho de 2019 às 20:45"
+        excerpt = "Continuando a série de post’s sobre arquitetura CSS, no post anterior vimos como organizar a estrutura de pastas e arquivos com ITCSS. Nesse post vamos dar uma olhada no CSS Funcional...."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1563493730/css3_hs4wbl.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/arquitetura-css-css-funcional/"
+        title = "Arquitetura CSS: CSS Funcional"
+    [post3]
+        date = "16 de Julho de 2019 às 22:22"
+        excerpt = "Criar uma boa estrutura para nossos arquivos CSS não é tão simples quanto parece, geralmente vamos encontrar algumas dificuldades ao decorrer do caminho, nos forçando à partir para práticas (não muito aceitas), como por exemplo: O uso do famoso !..."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1563326726/download_vecth8.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/arquitetura-css-com-itcss/"
+        title = "Arquitetura CSS: ITCSS"
+    [post4]
         date = "06 de Junho de 2019 às 21:11"
         excerpt = "Lidar com eventos é algo comum em aplicações front-end, estamos constantemente criando, emitindo e escutando eventos, seja eventos de click, scroll, hover, focus, etc… A diversidade de eventos são grandes...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1561421718/1_hLSiwh3HW9Pqw0M3gLEMOg_1_uji0gu.png"
         link = "https://blog.matheuscastiglioni.com.br/criando-um-event-emitter/"
         title = "Criando Um EventEmitter"
-    [post2]
+    [post5]
         date = "06 de Junho de 2019 às 22:59"
         excerpt = "Hoje em dia quando estamos trabalhando com a linguagem JavaScript é comum utilizarmos seus recursos, funcionalidades e sintaxes modernas. Porém, esse uso pode acabar trazendo problemas de compatibilidade entre navegadores, vamos imaginar o seguinte cenário:..."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1560391564/1_yl42Tqet103wA6seNUBLXA_rvjaho.jpg"
         link = "https://blog.matheuscastiglioni.com.br/como-funciona-a-transpilacao-de-codigo-do-babel/"
         title = "Como Funciona a Transpilação De Código Do Babel"
-    [post3]
-        date = "05 de Maio de 2019 às 21:03"
-        excerpt = "Imagine que temos um sistema rodando em produção e resolvemos disponibilizar uma nova funcionalidade, referente lançamentos de vendas. Para exemplo do post vamos imaginar um form bem simples, onde o usuário vai informar o cliente, produto, quantidade e valor, poderíamos ter algo parecido com:..."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1559261419/debounce_bb0evh.png"
-        link = "https://blog.matheuscastiglioni.com.br/previnindo-multiplas-requisicoes-com-debounce/"
-        title = "Previnindo Multiplas Requisições Com Debounce"
-    [post4]
-        date = "05 de Maio de 2019 às 21:41"
-        excerpt = "No post anterior eu expliquei um pouco sobre como é o processo de renderização de páginas dos navegadores (browsers). Dando continuidade na série sobre como a web funciona por debaixo dos panos, nesse post vou explicar como é feito a estilização de páginas...."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1556844492/aplicacoes-html-css-js-feed-1_pxcf15.png"
-        link = "https://blog.matheuscastiglioni.com.br/desconstruindo-a-web-estilizacao-de-paginas/"
-        title = "Desconstruindo a Web: Estilização De Páginas"
-    [post5]
-        date = "04 de Abril de 2019 às 21:14"
-        excerpt = "Continuando a série Desconstruindo a Web, onde estamos desvendando, entendendo e tendo ideias de como as coisas funcionam por debaixo dos panos (under the hood)...."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1555373869/CoM-The-Ultimate-Front-End-Development-Bundle-780x390_1_huun6h.jpg"
-        link = "https://blog.matheuscastiglioni.com.br/desconstruindo-a-web-renderizacao-de-paginas/"
-        title = "Desconstruindo a Web: Renderização De Páginas"
