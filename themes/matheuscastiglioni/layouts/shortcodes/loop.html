@@ -4,7 +4,7 @@
     {{ range $data }}
         {{ if .name }}
             <div class="o-box__barrel">
-                {{ with .video }} <iframe allowfullscreen class="o-box__barrel___thumbnail" src="{{ . }}"></iframe> {{ end }}
+            {{ with .video }} <iframe allowfullscreen class="o-box__barrel___thumbnail" src="{{ . }}"></iframe> {{ end }}
                 {{ with .image }} <a href="{{ . }}" target="_blank"><div class="o-box__barrel___thumbnail" style="background-image: url({{ . }});"></div></a> {{ end }}
                 <div class="o-box__barrel___content">
                     <div class="o-box__barrel___content___info">

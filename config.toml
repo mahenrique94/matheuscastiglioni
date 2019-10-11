@@ -1,5 +1,6 @@
 baseURL = "http://www.matheuscastiglioni.com.br/"
 defaultContentLanguage = "pt-br"
+disableKinds = ["taxonomyTerm"]
 languageCode = "pt-br"
 theme = "matheuscastiglioni"
 title = "Matheus Castiglioni"

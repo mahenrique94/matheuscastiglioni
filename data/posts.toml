@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "08 de Outubro de 2019 às 21:03"
+        excerpt = "Diariamente enfrentamos situações das quais não sabemos o que fazer e provavelmente nosso primeiro passo é acessar um famoso site: www.google.com (ou derivados) e realizar algum tipo de pesquisa para dado o nosso problema...."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1570579759/diferenca-entre-aprender-e-memorizar_1_pwxsct.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/memorizar-vs-aprender/"
+        title = "Memorizar vs Aprender"
+    [post2]
+        date = "28 de Agosto de 2019 às 22:06"
+        excerpt = "Normalmente ao desenvolver aplicações web é bem comum que a mesma seja acessada ou precisa suportar idiomas diferentes, ou seja, precisamos ter nosso site com mensagens e conteúdos em português, inglês, espanhol, etc…..."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1567040896/Featured-1_1_q3iigq.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/internacionalizacao-de-forma-nativa-javascript/"
+        title = "Internacionalização De Forma Nativa em Javascript"
+    [post3]
+        date = "14 de Agosto de 2019 às 20:50"
+        excerpt = "Continuando a série sobre posts’s explicando um pouco como as coisas funcionam por debaixo dos panos no desenvolvimento web, esse é o quinto post da série, caso você tenha perdido e queira ver os anteriores:..."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1565054731/13478_rzodrk.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/desconstruindo-a-web-como-v8-funciona/"
+        title = "Desconstruindo a Web: Como a V8 Funciona?"
+    [post4]
         date = "24 de Julho de 2019 às 21:18"
         excerpt = "Desenvolver aplicativos nativos para multiplataformas pode não ser uma tarefa tão simples quanto parece, será necessário que o desenvolvedor tenha conhecimento de pelo menos duas linguagens, a linguagem da plataforma A e a linguagem da plataforma B...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1564014096/react-native_lakcvh.png"
         link = "https://blog.matheuscastiglioni.com.br/react-native-e-nativo/"
         title = "React Native é nativo?"
-    [post2]
+    [post5]
         date = "18 de Julho de 2019 às 20:45"
         excerpt = "Continuando a série de post’s sobre arquitetura CSS, no post anterior vimos como organizar a estrutura de pastas e arquivos com ITCSS. Nesse post vamos dar uma olhada no CSS Funcional...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1563493730/css3_hs4wbl.jpg"
         link = "https://blog.matheuscastiglioni.com.br/arquitetura-css-css-funcional/"
         title = "Arquitetura CSS: CSS Funcional"
-    [post3]
-        date = "16 de Julho de 2019 às 22:22"
-        excerpt = "Criar uma boa estrutura para nossos arquivos CSS não é tão simples quanto parece, geralmente vamos encontrar algumas dificuldades ao decorrer do caminho, nos forçando à partir para práticas (não muito aceitas), como por exemplo: O uso do famoso !..."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1563326726/download_vecth8.jpg"
-        link = "https://blog.matheuscastiglioni.com.br/arquitetura-css-com-itcss/"
-        title = "Arquitetura CSS: ITCSS"
-    [post4]
-        date = "06 de Junho de 2019 às 21:11"
-        excerpt = "Lidar com eventos é algo comum em aplicações front-end, estamos constantemente criando, emitindo e escutando eventos, seja eventos de click, scroll, hover, focus, etc… A diversidade de eventos são grandes...."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1561421718/1_hLSiwh3HW9Pqw0M3gLEMOg_1_uji0gu.png"
-        link = "https://blog.matheuscastiglioni.com.br/criando-um-event-emitter/"
-        title = "Criando Um EventEmitter"
-    [post5]
-        date = "06 de Junho de 2019 às 22:59"
-        excerpt = "Hoje em dia quando estamos trabalhando com a linguagem JavaScript é comum utilizarmos seus recursos, funcionalidades e sintaxes modernas. Porém, esse uso pode acabar trazendo problemas de compatibilidade entre navegadores, vamos imaginar o seguinte cenário:..."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1560391564/1_yl42Tqet103wA6seNUBLXA_rvjaho.jpg"
-        link = "https://blog.matheuscastiglioni.com.br/como-funciona-a-transpilacao-de-codigo-do-babel/"
-        title = "Como Funciona a Transpilação De Código Do Babel"
