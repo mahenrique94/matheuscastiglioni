@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "22 de Novembro de 2019 às 07:37"
+        excerpt = "Atualmente o uso de aplicativos móveis vem aumentando dia após dia, isso porque nossos celulares estão cada vez mais potentes. Mas, como podemos desenvolver um aplicativo que funcione tanto para a plataforma Android e iOS (mais famosas)?..."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1574422100/1_73IgUxPfyXUKZAaIXgutrw_yazws1.png"
+        link = "https://blog.matheuscastiglioni.com.br/introducao-ao-flutter-com-todo-list/"
+        title = "Introdução Ao Flutter Com Todo List"
+    [post2]
+        date = "29 de Outubro de 2019 às 21:22"
+        excerpt = "Atualmente o mercado de tecnologia está bombando e cada vez mais as vagas vão aumentando e a necessidade de contratação também. Existem vários motivos para essas vagas estarem aumentando, seja a necessidade para novos projetos, demanda com projetos existentes, desligamento de pessoas, formação de uma nova área na empresa, etc…..."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1572395088/103821-as-6-melhores-dicas-para-otimizar-o-processo-de-contratacao-da-sua-empresa-1000x640_1_ovvjs8.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/contratar-vs-formar/"
+        title = "Contratar vs Formar"
+    [post3]
         date = "08 de Outubro de 2019 às 21:03"
         excerpt = "Diariamente enfrentamos situações das quais não sabemos o que fazer e provavelmente nosso primeiro passo é acessar um famoso site: www.google.com (ou derivados) e realizar algum tipo de pesquisa para dado o nosso problema...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1570579759/diferenca-entre-aprender-e-memorizar_1_pwxsct.jpg"
         link = "https://blog.matheuscastiglioni.com.br/memorizar-vs-aprender/"
         title = "Memorizar vs Aprender"
-    [post2]
+    [post4]
         date = "28 de Agosto de 2019 às 22:06"
         excerpt = "Normalmente ao desenvolver aplicações web é bem comum que a mesma seja acessada ou precisa suportar idiomas diferentes, ou seja, precisamos ter nosso site com mensagens e conteúdos em português, inglês, espanhol, etc…..."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1567040896/Featured-1_1_q3iigq.jpg"
         link = "https://blog.matheuscastiglioni.com.br/internacionalizacao-de-forma-nativa-javascript/"
         title = "Internacionalização De Forma Nativa em Javascript"
-    [post3]
+    [post5]
         date = "14 de Agosto de 2019 às 20:50"
         excerpt = "Continuando a série sobre posts’s explicando um pouco como as coisas funcionam por debaixo dos panos no desenvolvimento web, esse é o quinto post da série, caso você tenha perdido e queira ver os anteriores:..."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1565054731/13478_rzodrk.jpg"
         link = "https://blog.matheuscastiglioni.com.br/desconstruindo-a-web-como-v8-funciona/"
         title = "Desconstruindo a Web: Como a V8 Funciona?"
-    [post4]
-        date = "24 de Julho de 2019 às 21:18"
-        excerpt = "Desenvolver aplicativos nativos para multiplataformas pode não ser uma tarefa tão simples quanto parece, será necessário que o desenvolvedor tenha conhecimento de pelo menos duas linguagens, a linguagem da plataforma A e a linguagem da plataforma B...."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1564014096/react-native_lakcvh.png"
-        link = "https://blog.matheuscastiglioni.com.br/react-native-e-nativo/"
-        title = "React Native é nativo?"
-    [post5]
-        date = "18 de Julho de 2019 às 20:45"
-        excerpt = "Continuando a série de post’s sobre arquitetura CSS, no post anterior vimos como organizar a estrutura de pastas e arquivos com ITCSS. Nesse post vamos dar uma olhada no CSS Funcional...."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1563493730/css3_hs4wbl.jpg"
-        link = "https://blog.matheuscastiglioni.com.br/arquitetura-css-css-funcional/"
-        title = "Arquitetura CSS: CSS Funcional"

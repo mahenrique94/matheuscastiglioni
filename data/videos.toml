@@ -1,31 +1,31 @@
 [videos]
     [video1]
+        cattegory = "Flutter"
+        excerpt = "Vídeo de introdução ao Flutter, vamos entender o que é Flutter, qual a motivação para usá-lo em nosso dia a dia."
+        link = "https://www.youtube.com/watch?v=6BwQ3UMZLoo"
+        name = "[BR][Mobile] Flutter - Primeiros passos com um To-Do List"
+        video = "https://www.youtube.com/embed/6BwQ3UMZLoo"
+    [video2]
+        cattegory = "Jest"
+        excerpt = "Neste vídeo mostro como podemos escrever nossos testes seguindo o principio do TDD (Test Driven Development)"
+        link = "https://www.youtube.com/watch?v=sLx00kXPoTg"
+        name = "[BR][Teste] Jest - Iniciando com testes e TDD"
+        video = "https://www.youtube.com/embed/sLx00kXPoTg"
+    [video3]
+        cattegory = "React Native"
+        excerpt = "Neste vídeo mostro como criar um componente de To-Do list com React Native."
+        link = "https://www.youtube.com/watch?v=TkndPCwpvmk"
+        name = "[BR][Mobile] React Native - Criando um componente de To-Do List"
+        video = "https://www.youtube.com/embed/TkndPCwpvmk"
+    [video4]
+        cattegory = "Svelte"
+        excerpt = "Neste vídeo mostro como utilizar as stores do Svelte, também entendemos como elas funcionam por baixo dos panos e quais as mágicas que o Svelte faz para a gente."
+        link = "https://www.youtube.com/watch?v=PBW6Cw0mMWI"
+        name = "[BR][Front-End] Svelte - Como funciona as stores do Svelte"
+        video = "https://www.youtube.com/embed/PBW6Cw0mMWI"
+    [video5]
         cattegory = "React"
         excerpt = "Neste vídeo mostro como utilizar os Portals do React, vamos ver como podemos renderizar um componente fora da arvore de renderização atual utilizando a função createPortal do React."
         link = "https://www.youtube.com/watch?v=t2GCO637Oik"
         name = "[BR][Front-End] React - Renderizando componentes com Portals"
         video = "https://www.youtube.com/embed/t2GCO637Oik"
-    [video2]
-        cattegory = "Svelte"
-        excerpt = "Neste vídeo mostro como é feita a atualização de páginas do Svelte, vamos ver uma versão minimalista de como o Svelte funciona por baixo dos panos..."
-        link = "https://www.youtube.com/watch?v=e9MUb5-_Nno"
-        name = "[BR][Front-End] Svelte - Como é feita a atualização de páginas"
-        video = "https://www.youtube.com/embed/e9MUb5-_Nno"
-    [video3]
-        cattegory = "JavaScript"
-        excerpt = "Neste vídeo mostro como criar um simples Todo List utilizando Web Components, no vídeo foi utilizado as bibliotecas haunted e lit-html."
-        link = "https://www.youtube.com/watch?v=0QpyCn3BmGY"
-        name = "[BR][Front-End] JavaScript - Todo List com Web Components"
-        video = "https://www.youtube.com/embed/0QpyCn3BmGY"
-    [video4]
-        cattegory = "JavaScript"
-        excerpt = "Neste vídeo mostro como criar e implementar uma versão simples e minimalista do Redux. A da implementação é para termos uma breve noção de como possivelmente o Redux funciona por baixo dos panos."
-        link = "https://www.youtube.com/watch?v=A-k_aw-tLXI"
-        name = "[BR][Front-End] JavaScript - Criando o meu Redux"
-        video = "https://www.youtube.com/embed/A-k_aw-tLXI"
-    [video5]
-        cattegory = "React"
-        excerpt = "Neste vídeo mostro como tornar uma aplicação React em multi idiomas, dessa maneira podemos atingir público brasileiro, americano, espanhol, etc..."
-        link = "https://www.youtube.com/watch?v=5p9EMWwieyo"
-        name = "[BR][Front-End] React - Aplicações multi idiomas"
-        video = "https://www.youtube.com/embed/5p9EMWwieyo"

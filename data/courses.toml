@@ -1,8 +1,15 @@
 [courses]
-    [css-grid-layout]
+    [curso01]
         category = "CSS"
         excerpt = "Simplifique a construção de layouts complexos com o CSS Grid Layout. Posicione elementos de forma prática e deixe o resto com o navegador."
         image = "https://www.alura.com.br/assets/api/cursos/css-grid-layout.svg"
         link = "https://cursos.alura.com.br/course/css-grid-layout"
         name = "CSS Grid: Simplificando layouts"
         updatedAt = "04/07/2019"
+    [curso02]
+        category = "CSS"
+        excerpt = "Crie arquiteturas CSS onde a manutenção e evolução seja simples, rápida e eficiente."
+        image = "https://www.alura.com.br/assets/api/cursos/arquitetura-css.svg"
+        link = "https://cursos.alura.com.br/course/arquitetura-css"
+        name = "Arquitetura CSS: Descomplicando os problemas"
+        updatedAt = "16/10/2019"
