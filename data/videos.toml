@@ -1,31 +1,31 @@
 [videos]
     [video1]
+        cattegory = "React"
+        excerpt = "Neste vídeo mostro implementar uma funcionalidade de dark mode em aplicações React utilizando a biblioteca Styled Components e Context API."
+        link = "https://www.youtube.com/watch?v=oxRKRTfc9ho"
+        name = "Criando dark mode com styled components"
+        video = "https://www.youtube.com/embed/oxRKRTfc9ho"
+    [video2]
+        cattegory = "React"
+        excerpt = "Neste vídeo mostro como criar testes e revisões visuais de componentes utilizando a plataforma Percy com a biblioteca Storybook."
+        link = "https://www.youtube.com/watch?v=YYYobHonWD0"
+        name = "Testes e revisões visuais com Percy e Storybook"
+        video = "https://www.youtube.com/embed/YYYobHonWD0"
+    [video3]
+        cattegory = "JavaScript"
+        excerpt = "Neste vídeo mostro como implementar micro front-end com build code utilizando nginx como proxy reverso. Será feito uma implementação de aplicações feitas em React, Angular e Vue."
+        link = "https://www.youtube.com/watch?v=5_Ie7ykJ9Iw"
+        name = "Implementando micro front-end com nginx"
+        video = "https://www.youtube.com/embed/5_Ie7ykJ9Iw"
+    [video4]
+        cattegory = "JavaScript"
+        excerpt = "Neste vídeo mostro como utilizar a função map que por padrão é disponível para todo array em JavaScript."
+        link = "https://www.youtube.com/watch?v=96o_yHTy1m0"
+        name = "Percorrendo e criando novos arrays com map"
+        video = "https://www.youtube.com/embed/96o_yHTy1m0"
+    [video5]
         cattegory = "JavaScript"
         excerpt = "Neste vídeo mostro como começar a trabalhar e criar web components ou custom elements, vamos criar um simples componente de todo para dar os primeiros passos e entender como funciona a biblioteca Stencil."
         link = "https://www.youtube.com/watch?v=hnOpu1Q6qEk"
         name = "Criando Web Components com StencilJS"
         video = "https://www.youtube.com/embed/hnOpu1Q6qEk"
-    [video2]
-        cattegory = "React"
-        excerpt = "Neste vídeo explico um pouco sobre React, Babel e Webpack. Vamos começar um projeto do zero, importando o React diretamente no HTML e depois ir melhorando o projeto aos poucos. Adicionamos o Babel para realizar a transpilação do código e o Webpack para fazer o empacotamento."
-        link = "https://www.youtube.com/watch?v=y5B0MXmt428"
-        name = "React, Babel e Webpack, o que é tudo isso?"
-        video = "https://www.youtube.com/embed/y5B0MXmt428"
-    [video3]
-        cattegory = "JavaScript"
-        excerpt = "Neste vídeo mostro como percorrer array em JavaScript utilizando a função forEach, vamos ver como passar uma função de callback para a função forEach e quais parâmetros ela pode receber."
-        link = "https://www.youtube.com/watch?v=1YI4_JuDoTU"
-        name = "Percorrendo arrays com forEach em JavaScript"
-        video = "https://www.youtube.com/embed/1YI4_JuDoTU"
-    [video4]
-        cattegory = "JavaScript"
-        excerpt = "Neste vídeo mostro como implementar uma versão simples de micro front-end utilizando o framework Single SPA, em um único projeto implementamos um contador em React e um todo list em Vue, separados por rotas."
-        link = "https://www.youtube.com/watch?v=who7iqEIpwU"
-        name = "[BR][Front-End] JavaScript - Implementando Micro Front-End com Single SPA"
-        video = "https://www.youtube.com/embed/who7iqEIpwU"
-    [video5]
-        cattegory = "JavaScript"
-        excerpt = "Neste vídeo mostro como podemos implementar reconhecimento faciais com JavaScript no Front-End, durante o vídeo vamos implementar funcionalidades como: Reconhecimento de rosto, desenhar os traços das faces, reconhecer idade e gênero, reconhecer expressões faciais e por último reconhecer o nome das pessoas."
-        link = "https://www.youtube.com/watch?v=aGecIY04ymQ"
-        name = "[BR][Front-End] JavaScript - Reconhecimento Facial com FaceAPI"
-        video = "https://www.youtube.com/embed/aGecIY04ymQ"

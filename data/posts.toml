@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "02 de Abril de 2020 às 21:47"
+        excerpt = "Quando estamos trabalhando com React é muito comum renderizar nossos componentes através de alguma condicional, ou seja, dado uma condição renderizamos o componente A senão renderizamos o componente B, e por ai vai…..."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1585875034/code-944499_1280_ukzzfs.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/renderizando-componentes-condicionalmente-em-react/"
+        title = "Renderizando Componentes Condicionalmente em React"
+    [post2]
+        date = "18 de Março de 2020 às 20:14"
+        excerpt = "Quando estamos trabalhando em aplicações React é bem comum que as páginas da aplicação tenham estruturas semelhantes, ou seja, normalmente ela pode ter um cabeçalho (header), um menu e um rodapé (footer)...."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1584573532/belgium-1601917_1920_qjqjld.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/criando-containers-personalizaveis-em-react/"
+        title = "Criando Containers Personalizáveis Em React"
+    [post3]
         date = "10 de Março de 2020 às 21:42"
         excerpt = "Uma das linguagens mais utilizadas e famosas atualmente sem dúvida é o JavaScript, hoje em dia o mesmo está em todos os lugares, podemos criar aplicações e sistemas web, desenvolver API’s no back-end e criar aplicativos móveis...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1583887697/design-3372889_1280_1_hwtkjn.jpg"
         link = "https://blog.matheuscastiglioni.com.br/porque-variaveis-funcoes-podem-ser-acessadas-antes-da-declaracao/"
         title = "Porque Variáveis e Funções Podem ser Acessadas Antes da Declaração"
-    [post2]
+    [post4]
         date = "29 de Janeiro de 2020 às 21:21"
         excerpt = "Cada vez mais nossos usuários exigem que os sistemas sejam mais rápidos e infelizmente algumas vezes deixamos passar pequenos detalhes que podem fazer toda diferença em ambientes de produção...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1580343932/react_bqnaur.jpg"
         link = "https://blog.matheuscastiglioni.com.br/diminuindo-processamento-com-use-memo-em-react/"
         title = "Diminuindo Processamento com useMemo em React"
-    [post3]
+    [post5]
         date = "10 de Dezembro de 2019 às 21:17"
         excerpt = "Utilizar funções em JavaScript é algo muito comum para nos dev’s que programados utilizando o mesmo, porém, também é comum que precisemos executar a mesma função diversas vezes e pode ser que muitas dessas vezes os parâmetros das funções não mude, ou seja, estamos processando a função por completo novamente de forma desnecessária...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1576023659/ogu5bl1s1jiftg7d0j0g_lmgxy6.jpg"
         link = "https://blog.matheuscastiglioni.com.br/memorizando-funcoes-em-javascript/"
         title = "Memorizando Funções Em Javascript"
-    [post4]
-        date = "05 de Dezembro de 2019 às 08:56"
-        excerpt = "Algo bem comum das linguagens de programação é o uso de funções, cada linguagem tem suas particularidades e maneiras específicas de como definir as mesmas...."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1575547118/por-que-o-javascript-e-onipresente-no-desenvolvimento-moderno-1_1_lgavks.png"
-        link = "https://blog.matheuscastiglioni.com.br/definindo-funcoes-em-javascript/"
-        title = "Definindo Funções em Javascript"
-    [post5]
-        date = "22 de Novembro de 2019 às 07:37"
-        excerpt = "Atualmente o uso de aplicativos móveis vem aumentando dia após dia, isso porque nossos celulares estão cada vez mais potentes. Mas, como podemos desenvolver um aplicativo que funcione tanto para a plataforma Android e iOS (mais famosas)?..."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1574422100/1_73IgUxPfyXUKZAaIXgutrw_yazws1.png"
-        link = "https://blog.matheuscastiglioni.com.br/introducao-ao-flutter-com-todo-list/"
-        title = "Introdução Ao Flutter Com Todo List"
