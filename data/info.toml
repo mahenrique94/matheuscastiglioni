@@ -12,6 +12,10 @@
         icon = "graduation-cap"
         url = ""
     [info4]
+        name = "www.matheuscastiglioni.com.br"
+        icon = "globe"
+        url = "https://www.matheuscastiglioni.com.br/"
+    [info5]
         name = "blog.matheuscastiglioni.com.br"
         icon = "globe"
-        url = "http://blog.matheuscastiglini.com.br"
+        url = "https://blog.matheuscastiglioni.com.br/"
