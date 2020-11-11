@@ -1,31 +1,31 @@
 [videos]
     [video1]
+        cattegory = "Acessibilidade"
+        excerpt = "Acessibilidade tornou-se um assunto e requisito muito importante hoje em dia para nossas aplicações e interfaces, mas, afinal o que seria acessibilidade e como poderíamos começar a aplicá-la para tornar nossos sites e aplicações mais acessíveis?"
+        link = "https://www.youtube.com/watch?v=pOmdL9LzDJg"
+        name = "Acessibilidade em páginas web"
+        video = "https://www.youtube.com/embed/pOmdL9LzDJg"
+    [video2]
+        cattegory = "Single SPA"
+        excerpt = "Muito se fala em micro front-end, mas, como podemos de fato aplicá-lo e começar utilizá-lo na prática em nosso dia-a-dia? "
+        link = "https://www.youtube.com/watch?v=68LaXOWwxZI"
+        name = "Implementando micro front-end com Single SPA e React"
+        video = "https://www.youtube.com/embed/68LaXOWwxZI"
+    [video3]
+        cattegory = "React"
+        excerpt = "Buscar informações e dados de alguma API em aplicações React é algo muito comum, porém, muitas vezes podemos ter problemas com a quantidade de requisição, tempo de resposta para carregar a página, perda de conexão, informação desatualizada e verbosidade em nossos códigos."
+        link = "https://www.youtube.com/watch?v=RrRdLEJ2Xrc"
+        name = "Buscando dados de API com React, Hooks e SWR"
+        video = "https://www.youtube.com/embed/RrRdLEJ2Xrc"
+    [video4]
+        cattegory = "Front-End"
+        excerpt = "Muito se fala sobre micro front-end, mas, o que é micro front-end? Quais problemas eles tentam resolver? Quais as motivações e porque deveríamos pensar em micro front-end?"
+        link = "https://www.youtube.com/watch?v=dg4qsABXhE4"
+        name = "O que é micro front-end?"
+        video = "https://www.youtube.com/embed/dg4qsABXhE4"
+    [video5]
         cattegory = "React"
         excerpt = "Normalmente realizar testes de integração é uma tarefa um pouco burocrática pois é necessário mockar e simular várias partes de uma arquitetura, mas, será que esses testes não poderiam ser mais simples e fáceis?"
         link = "https://www.youtube.com/watch?v=CthPfXdQZR0"
         name = "Simplificando testes de integração com React e Redux"
         video = "https://www.youtube.com/embed/CthPfXdQZR0"
-    [video2]
-        cattegory = "React"
-        excerpt = "É muito comum que em nossas aplicações as páginas tenham componentes e partes compartilhadas, ou seja, um cabeçalho com menu ou um rodapé."
-        link = "https://www.youtube.com/watch?v=mTiAUqfPIyg"
-        name = "Personalizando páginas em aplicações React"
-        video = "https://www.youtube.com/embed/mTiAUqfPIyg"
-    [video3]
-        cattegory = "React"
-        excerpt = "Precisando publicar suas aplicações React para ambientes em produção? Nesse vídeo mostro como publicar e deployar aplicações React de forma manual e automatizada"
-        link = "https://www.youtube.com/watch?v=inpo5xyXQNk"
-        name = "Publicando aplicação React na Netlify"
-        video = "https://www.youtube.com/embed/inpo5xyXQNk"
-    [video4]
-        cattegory = "React"
-        excerpt = "Já ouviu falar em Redux? Ou gerenciador de estado (state management) em aplicações React?"
-        link = "https://www.youtube.com/watch?v=qnVuDePDavA"
-        name = "Gerenciando estado em aplicações React com Redux"
-        video = "https://www.youtube.com/embed/qnVuDePDavA"
-    [video5]
-        cattegory = "React"
-        excerpt = "Neste vídeo mostro como podemos implementar o uso de CSS Modules em uma aplicação React, a ideia é não para de se preocupar em definir nome para classes CSS e evitar conflitos globais."
-        link = "https://www.youtube.com/watch?v=6KenD_7ncHk"
-        name = "Simplificando classes com CSS Modules"
-        video = "https://www.youtube.com/embed/6KenD_7ncHk"
