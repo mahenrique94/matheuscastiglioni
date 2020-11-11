@@ -26,10 +26,14 @@ Hoje a mais ou menos dois anos e meio sou Desenvolvedor *Full Stack* e um apaixo
 <span class="o-content__period">2020 - até o momento</span>
 Lider técnico.
 
+<div class="l-separator"></div>
+
 ### <i class="fa fa-desktop"></i> Engenheiro de Software
 ##### [Gupy](https://www.gupy.io/)
 <span class="o-content__period">2019 - 2020</span>
 Desenvolvimento de sistemas web.
+
+<div class="l-separator"></div>
 
 ### <i class="fa fa-desktop"></i> Desenvolvedor Front End
 ##### [Dextra](http://dextra.com.br/pt/)
