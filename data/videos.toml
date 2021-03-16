@@ -1,31 +1,31 @@
 [videos]
     [video1]
+        cattegory = "JavaScript"
+        excerpt = "Neste vídeo mostro explico como funciona a função reduce existente em arrays no JavaScript, vamos entender como ela funciona, para que ela serve e quais as maneiras de utilização."
+        link = "https://www.youtube.com/watch?v=5LM00IDX4Mk"
+        name = "Reduzindo arrays em JavaScript com a função reduce"
+        video = "https://www.youtube.com/embed/5LM00IDX4Mk"
+    [video2]
+        cattegory = "Front-End"
+        excerpt = "Neste vídeo mostro aplicar uma troca de temas em uma página web utilizando apenas linguagens nativas que o navegador já entende"
+        link = "https://www.youtube.com/watch?v=Q_jJzUiG3HY"
+        name = "Aplicando troca de temas com apenas HTML, CSS e JavaScript"
+        video = "https://www.youtube.com/embed/Q_jJzUiG3HY"
+    [video3]
         cattegory = "Acessibilidade"
         excerpt = "Acessibilidade tornou-se um assunto e requisito muito importante hoje em dia para nossas aplicações e interfaces, mas, afinal o que seria acessibilidade e como poderíamos começar a aplicá-la para tornar nossos sites e aplicações mais acessíveis?"
         link = "https://www.youtube.com/watch?v=pOmdL9LzDJg"
         name = "Acessibilidade em páginas web"
         video = "https://www.youtube.com/embed/pOmdL9LzDJg"
-    [video2]
+    [video4]
         cattegory = "Single SPA"
         excerpt = "Muito se fala em micro front-end, mas, como podemos de fato aplicá-lo e começar utilizá-lo na prática em nosso dia-a-dia? "
         link = "https://www.youtube.com/watch?v=68LaXOWwxZI"
         name = "Implementando micro front-end com Single SPA e React"
         video = "https://www.youtube.com/embed/68LaXOWwxZI"
-    [video3]
+    [video5]
         cattegory = "React"
         excerpt = "Buscar informações e dados de alguma API em aplicações React é algo muito comum, porém, muitas vezes podemos ter problemas com a quantidade de requisição, tempo de resposta para carregar a página, perda de conexão, informação desatualizada e verbosidade em nossos códigos."
         link = "https://www.youtube.com/watch?v=RrRdLEJ2Xrc"
         name = "Buscando dados de API com React, Hooks e SWR"
         video = "https://www.youtube.com/embed/RrRdLEJ2Xrc"
-    [video4]
-        cattegory = "Front-End"
-        excerpt = "Muito se fala sobre micro front-end, mas, o que é micro front-end? Quais problemas eles tentam resolver? Quais as motivações e porque deveríamos pensar em micro front-end?"
-        link = "https://www.youtube.com/watch?v=dg4qsABXhE4"
-        name = "O que é micro front-end?"
-        video = "https://www.youtube.com/embed/dg4qsABXhE4"
-    [video5]
-        cattegory = "React"
-        excerpt = "Normalmente realizar testes de integração é uma tarefa um pouco burocrática pois é necessário mockar e simular várias partes de uma arquitetura, mas, será que esses testes não poderiam ser mais simples e fáceis?"
-        link = "https://www.youtube.com/watch?v=CthPfXdQZR0"
-        name = "Simplificando testes de integração com React e Redux"
-        video = "https://www.youtube.com/embed/CthPfXdQZR0"
