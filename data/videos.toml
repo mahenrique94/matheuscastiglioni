@@ -1,31 +1,31 @@
 [videos]
     [video1]
         cattegory = "JavaScript"
+        excerpt = "Neste vídeo mostro como podemos verificar se todos os itens de um array atendem a uma determinada condição em JavaScript utilizando a função every."
+        link = "https://www.youtube.com/watch?v=NyD-B8V7Cks"
+        name = "Verificando todas as condições em arrays com every"
+        video = "https://www.youtube.com/embed/NyD-B8V7Cks"
+    [video2]
+        cattegory = "JavaScript"
+        excerpt = "Neste vídeo mostro como podemos filtrar itens de um array em JavaScript utilizando a função filter."
+        link = "https://www.youtube.com/watch?v=m88BRYeMBnw"
+        name = "Filtrando itens em array com filter"
+        video = "https://www.youtube.com/embed/m88BRYeMBnw"
+    [video3]
+        cattegory = "JavaScript"
+        excerpt = "Neste vídeo mostro como podemos garantir que pelo menos uma condição atenda nos itens de um array em JavaScript utilizando a função some."
+        link = "https://www.youtube.com/watch?v=tnz1vSPaMXI"
+        name = "Verificando pelo menos uma condição em arrays com some"
+        video = "https://www.youtube.com/embed/tnz1vSPaMXI"
+    [video4]
+        cattegory = "Node"
+        excerpt = "Neste vídeo mostro gerenciar dependências em projetos Node utilizando o gerenciador de pacotes NPM (Node Package Manager)."
+        link = "https://www.youtube.com/watch?v=4HsuEGyK29M"
+        name = "Gerenciando dependências em projetos Node"
+        video = "https://www.youtube.com/embed/4HsuEGyK29M"
+    [video5]
+        cattegory = "JavaScript"
         excerpt = "Neste vídeo mostro explico como funciona a função reduce existente em arrays no JavaScript, vamos entender como ela funciona, para que ela serve e quais as maneiras de utilização."
         link = "https://www.youtube.com/watch?v=5LM00IDX4Mk"
         name = "Reduzindo arrays em JavaScript com a função reduce"
         video = "https://www.youtube.com/embed/5LM00IDX4Mk"
-    [video2]
-        cattegory = "Front-End"
-        excerpt = "Neste vídeo mostro aplicar uma troca de temas em uma página web utilizando apenas linguagens nativas que o navegador já entende"
-        link = "https://www.youtube.com/watch?v=Q_jJzUiG3HY"
-        name = "Aplicando troca de temas com apenas HTML, CSS e JavaScript"
-        video = "https://www.youtube.com/embed/Q_jJzUiG3HY"
-    [video3]
-        cattegory = "Acessibilidade"
-        excerpt = "Acessibilidade tornou-se um assunto e requisito muito importante hoje em dia para nossas aplicações e interfaces, mas, afinal o que seria acessibilidade e como poderíamos começar a aplicá-la para tornar nossos sites e aplicações mais acessíveis?"
-        link = "https://www.youtube.com/watch?v=pOmdL9LzDJg"
-        name = "Acessibilidade em páginas web"
-        video = "https://www.youtube.com/embed/pOmdL9LzDJg"
-    [video4]
-        cattegory = "Single SPA"
-        excerpt = "Muito se fala em micro front-end, mas, como podemos de fato aplicá-lo e começar utilizá-lo na prática em nosso dia-a-dia? "
-        link = "https://www.youtube.com/watch?v=68LaXOWwxZI"
-        name = "Implementando micro front-end com Single SPA e React"
-        video = "https://www.youtube.com/embed/68LaXOWwxZI"
-    [video5]
-        cattegory = "React"
-        excerpt = "Buscar informações e dados de alguma API em aplicações React é algo muito comum, porém, muitas vezes podemos ter problemas com a quantidade de requisição, tempo de resposta para carregar a página, perda de conexão, informação desatualizada e verbosidade em nossos códigos."
-        link = "https://www.youtube.com/watch?v=RrRdLEJ2Xrc"
-        name = "Buscando dados de API com React, Hooks e SWR"
-        video = "https://www.youtube.com/embed/RrRdLEJ2Xrc"
