@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "17 de Abril de 2021 às 15:41"
+        excerpt = "Muitas vezes vão haver situações onde a melhor decisão é jogar toda arquitetura e base de código fora para começar reescrever uma nova do zero, porém, em situações e cenários assim é muito comum pessoas se sentirem mal do ponto de vista onde o código que elas escreveram será “condenado” e para várias pessoas jogar código fora é sinal de falha...."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1618685187/4484_1_g4ishp.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/sacrificial-architecture/"
+        title = "Sacrificial Architecture"
+    [post2]
         date = "17 de Abril de 2021"
         excerpt = "Em posts anteriores vimos como organizar e dividir times orientados à contextos: https://blog.matheuscastiglioni.com.br/inverse-conway-maneuver/ e uma pergunta ou problemas que podem surgir com essa aboragem: “Que pessoa ou time pode mexer nos contextos de outro time?..."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1618682286/4440574_1_emo6xm.jpg"
         link = "https://blog.matheuscastiglioni.com.br/code-onwership/"
         title = "Code Onwership"
-    [post2]
+    [post3]
         date = "17 de Abril de 2021 às 14:29"
         excerpt = "É comum em desenvolvimento de sistemas nos depararmos com problemas que aparecem e fazer parte do nosso dia-a-dia, por exemplo: Quando uma pessoa ou time precisa subir um ambiente de QA, é necessário pedir para alguém ou realizar operações e processos manuais (configurações e mais configurações) para ter tal ambiente...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1618682011/1Z_2103.w015.n001.377A.p15.377_1_ctwend.jpg"
         link = "https://blog.matheuscastiglioni.com.br/consulting-judo/"
         title = "Consulting Judo"
-    [post3]
+    [post4]
         date = "17 de Março de 2021 às 22:05"
         excerpt = "Em um post anterior vimos a famosa Lei de Conway, nele entendemos os problemas que existem quando nos deparamos com tal lei."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1616029955/colleagues-giving-fist-bump_1_gyzy5x.jpg"
         link = "https://blog.matheuscastiglioni.com.br/inverse-conway-maneuver/"
         title = "Inverse Conway Maneuver"
-    [post4]
+    [post5]
         date = "17 de Março de 2021 às 21:26"
         excerpt = "Durante o ciclo de desenvolvimento dos nossos softwares podemos e vamos em algum momento nos deparar com desafios, às vezes menos complexos e varias vezes muito complexos...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1616027549/36413_l5fxtb.jpg"
         link = "https://blog.matheuscastiglioni.com.br/big-ball-of-mud/"
         title = "Big Ball of Mud"
-    [post5]
-        date = "16 de Março de 2021 às 21:25"
-        excerpt = "Constantemente estão nascendo e surgindo novos projetos que envolvem desenvolvimento de software, mas, um dos motivos de muitos projetos atrasarem refere-se ao planejamento."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1615940936/cheerful-business-people-job-is-done-group-office-workers-happy-hit-their-own-records-being-successful_h2esre.jpg"
-        link = "https://blog.matheuscastiglioni.com.br/lei-de-brooks/"
-        title = "Lei De Brooks"
