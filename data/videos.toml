@@ -1,31 +1,31 @@
 [videos]
     [video1]
         cattegory = "Padrões de Projetos"
+        excerpt = "Neste vídeo mostro como aplicar o padrão de projeto Interpreter, vamos interpretar operações e expressões matemáticas."
+        link = "https://www.youtube.com/watch?v=Sk4jtqz2R8E"
+        name = "Interpretando operações matemáticas com padrão de projeto Interpreter"
+        video = "https://www.youtube.com/embed/Sk4jtqz2R8E"
+    [video2]
+        cattegory = "Padrões de Projetos"
         excerpt = "Neste vídeo mostro como aplicar o padrão de projeto Singleton, vamos utilizá-lo para diminuir conexões abertas com o banco de dados."
         link = "https://www.youtube.com/watch?v=koL2LK-MjB4"
         name = "Diminuindo conexões com o banco de dados utilizando o padrão de projeto Singleton"
         video = "https://www.youtube.com/embed/koL2LK-MjB4"
-    [video2]
+    [video3]
         cattegory = "Padrões de Projetos"
         excerpt = "Neste vídeo mostro como aplicar o padrão de projeto Strategy em um cenário onde precisamos construir uma calculadora de impostos."
         link = "https://www.youtube.com/watch?v=ngZRMd4d9cQ"
         name = "Criando uma calculadora de impostos com o padrão de projeto Strategy"
         video = "https://www.youtube.com/embed/ngZRMd4d9cQ"
-    [video3]
+    [video4]
         cattegory = "Padrões de Projetos"
         excerpt = "Neste vídeo falo um pouco sobre os famosos design patterns, também conhecidos como padrões de projetos. O que são? Para que serve? Quais existem? Como utilizamos?"
         link = "https://www.youtube.com/watch?v=KNWd1aWtsMw"
         name = "O que são design patterns (padrões de projetos) e para que servem?"
         video = "https://www.youtube.com/embed/KNWd1aWtsMw"
-    [video4]
+    [video5]
         cattegory = "JavaScript"
         excerpt = "Neste vídeo mostro como podemos verificar se todos os itens de um array atendem a uma determinada condição em JavaScript utilizando a função every."
         link = "https://www.youtube.com/watch?v=NyD-B8V7Cks"
         name = "Verificando todas as condições em arrays com every"
         video = "https://www.youtube.com/embed/NyD-B8V7Cks"
-    [video5]
-        cattegory = "JavaScript"
-        excerpt = "Neste vídeo mostro como podemos filtrar itens de um array em JavaScript utilizando a função filter."
-        link = "https://www.youtube.com/watch?v=m88BRYeMBnw"
-        name = "Filtrando itens em array com filter"
-        video = "https://www.youtube.com/embed/m88BRYeMBnw"
