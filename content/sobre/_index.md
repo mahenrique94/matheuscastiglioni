@@ -9,7 +9,3 @@ Apaixonado pelo mundo dos códigos e um eterno estudante, gosto de aprender e sa
 
 {{< list "info" >}}
 {{< list "networks" >}}
-
-## Comunidade
-
-{{< boxList "community" >}}
