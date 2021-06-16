@@ -1,31 +1,31 @@
 [videos]
     [video1]
         cattegory = "Padrões de Projetos"
+        excerpt = "Neste vídeo mostro como construir e instanciar objetos complexos utilizando o padrão de projeto (design pattern) chamado Builder."
+        link = "https://www.youtube.com/watch?v=j7c3t8-Q2Ro"
+        name = "Construindo faturas complexas com o padrão de projeto Builder"
+        video = "https://www.youtube.com/embed/j7c3t8-Q2Ro"
+    [video2]
+        cattegory = "Padrões de Projetos"
+        excerpt = "Neste vídeo mostro implementar uma representação de música utilizando o padrão de projeto (design pattern) Flyweight."
+        link = "https://www.youtube.com/watch?v=NQf9IFdQw-U"
+        name = "Criando representações musicais com o padrão de projeto Flyweight"
+        video = "https://www.youtube.com/embed/NQf9IFdQw-U"
+    [video3]
+        cattegory = "Padrões de Projetos"
+        excerpt = "Neste vídeo mostro como implementar uma calculadora de descontos utilizando o padrão de projeto (design pattern) chamado Chain of Responsability."
+        link = "https://www.youtube.com/watch?v=QIQRcacsBD8"
+        name = "Criando uma calculadora de descontos com o padrão de projeto Chain of Responsability"
+        video = "https://www.youtube.com/embed/QIQRcacsBD8"
+    [video4]
+        cattegory = "Setup"
+        excerpt = "Neste vídeo mostro as extensões que utilizo no meu vscode para dia a dia de desenvolvimento."
+        link = "https://www.youtube.com/watch?v=5zRdz6Nm_7Q"
+        name = "Minhas extensões que utilizo no vscode"
+        video = "https://www.youtube.com/embed/5zRdz6Nm_7Q"
+    [video5]
+        cattegory = "Padrões de Projetos"
         excerpt = "Neste vídeo mostro como aplicar o padrão de projeto Interpreter, vamos interpretar operações e expressões matemáticas."
         link = "https://www.youtube.com/watch?v=Sk4jtqz2R8E"
         name = "Interpretando operações matemáticas com padrão de projeto Interpreter"
         video = "https://www.youtube.com/embed/Sk4jtqz2R8E"
-    [video2]
-        cattegory = "Padrões de Projetos"
-        excerpt = "Neste vídeo mostro como aplicar o padrão de projeto Singleton, vamos utilizá-lo para diminuir conexões abertas com o banco de dados."
-        link = "https://www.youtube.com/watch?v=koL2LK-MjB4"
-        name = "Diminuindo conexões com o banco de dados utilizando o padrão de projeto Singleton"
-        video = "https://www.youtube.com/embed/koL2LK-MjB4"
-    [video3]
-        cattegory = "Padrões de Projetos"
-        excerpt = "Neste vídeo mostro como aplicar o padrão de projeto Strategy em um cenário onde precisamos construir uma calculadora de impostos."
-        link = "https://www.youtube.com/watch?v=ngZRMd4d9cQ"
-        name = "Criando uma calculadora de impostos com o padrão de projeto Strategy"
-        video = "https://www.youtube.com/embed/ngZRMd4d9cQ"
-    [video4]
-        cattegory = "Padrões de Projetos"
-        excerpt = "Neste vídeo falo um pouco sobre os famosos design patterns, também conhecidos como padrões de projetos. O que são? Para que serve? Quais existem? Como utilizamos?"
-        link = "https://www.youtube.com/watch?v=KNWd1aWtsMw"
-        name = "O que são design patterns (padrões de projetos) e para que servem?"
-        video = "https://www.youtube.com/embed/KNWd1aWtsMw"
-    [video5]
-        cattegory = "JavaScript"
-        excerpt = "Neste vídeo mostro como podemos verificar se todos os itens de um array atendem a uma determinada condição em JavaScript utilizando a função every."
-        link = "https://www.youtube.com/watch?v=NyD-B8V7Cks"
-        name = "Verificando todas as condições em arrays com every"
-        video = "https://www.youtube.com/embed/NyD-B8V7Cks"
