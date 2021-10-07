@@ -21,49 +21,46 @@ Hoje a mais ou menos dois anos e meio sou Desenvolvedor *Full Stack* e um apaixo
 
 ## <i class="fa fa-briefcase o-content__icon"></i> Experiências
 
+### <i class="fa fa-desktop"></i> Principal Engineer
+##### [Gupy](https://www.gupy.io/)
+<span class="o-content__period">2021 - até o momento</span>
+
 ### <i class="fa fa-desktop"></i> Tech Lead
 ##### [Gupy](https://www.gupy.io/)
-<span class="o-content__period">2020 - até o momento</span>
-Lider técnico.
+<span class="o-content__period">2020 - 2021</span>
 
 <div class="l-separator"></div>
 
 ### <i class="fa fa-desktop"></i> Engenheiro de Software
 ##### [Gupy](https://www.gupy.io/)
 <span class="o-content__period">2019 - 2020</span>
-Desenvolvimento de sistemas web.
 
 <div class="l-separator"></div>
 
 ### <i class="fa fa-desktop"></i> Desenvolvedor Front End
 ##### [Dextra](http://dextra.com.br/pt/)
 <span class="o-content__period">2018 - 2019</span>
-Desenvolvimento de sistemas web.
 
 <div class="l-separator"></div>
 
 ### <i class="fa fa-desktop"></i> Desenvolvedor Front End
 ##### [Logicalis](https://www.la.logicalis.com/pt-Latam/)
 <span class="o-content__period">2018 - 2018</span>
-Desenvolvimento de sistemas web.
 
 <div class="l-separator"></div>
 
 ### <i class="fa fa-keyboard-o"></i> Desenvolvedor Full Stack
 ##### [Atena Informática](http://www.atenainformatica.com.br)
 <span class="o-content__period">2015 - 2018</span>
-Desenvolvimento de sites, sistemas web, aplicativos para Android e configurações e manutenção em servidores linux.
 
 <div class="l-separator"></div>
 
 ### <i class="fa fa-headphones"></i> Suporte Técnico
 ##### [Atena Informática](http://www.atenainformatica.com.br)
 <span class="o-content__period">2014 - 2015</span>
-Auxílico e ajuda aos clientes que tinha dificuldade ou encontravam problemas durante o uso de nosso sistema.
 
 <div class="l-separator"></div>
 
 ### <i class="fa fa-wrench"></i> Técnico em Informática
 ##### Carrossel Informática
 <span class="o-content__period">2009 - 2014</span>
-Montagem e manutenção em computadores e notebooks, configurações e instalações de rede.
