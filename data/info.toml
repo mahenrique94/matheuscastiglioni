@@ -1,21 +1,17 @@
 [info]
     [info1]
-        name = "matheushcastiglioni@gmail.com"
-        icon = "envelope"
-        url = "mailto:matheushcastiglioni@gmail.com"
-    [info2]
         name = "CEGEP - Técnico em Informática"
         icon = "certificate"
         url = "#"
-    [info3]
+    [info2]
         name = "UNOPAR - Análise e Desenvolvimento de Sistemas"
         icon = "graduation-cap"
         url = ""
-    [info4]
+    [info3]
         name = "www.matheuscastiglioni.com.br"
         icon = "globe"
         url = "https://www.matheuscastiglioni.com.br/"
-    [info5]
+    [info4]
         name = "blog.matheuscastiglioni.com.br"
         icon = "globe"
         url = "https://blog.matheuscastiglioni.com.br/"
