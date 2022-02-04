@@ -21,7 +21,7 @@ Hoje a mais ou menos dois anos e meio sou Desenvolvedor *Full Stack* e um apaixo
 
 ## <i class="fa fa-briefcase o-content__icon"></i> Experiências
 
-### <i class="fa fa-desktop"></i> Principal Engineer
+### <i class="fa fa-desktop"></i> Staff Engineer
 ##### [Gupy](https://www.gupy.io/)
 <span class="o-content__period">2021 - até o momento</span>
 
