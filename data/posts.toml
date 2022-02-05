@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "03 de Fevereiro de 2022 às 10:00"
+        excerpt = "Existe diversas formas da gente estruturar e dividir nossos projetos, ou seja, podemos particionar e separar nossos projetos de N maneiras. Na maioria das vezes (às vezes um framework não deixa) podemos escolher quais pastas e seus nomes, quais arquivos e seus nomes, quais separações, quais módulos, camadas, etc…..."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1643395059/666_1_y87m5y.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/partitioning-technical-domain/"
+        title = "Particionamento técnico vs domínio"
+    [post2]
+        date = "27 de Janeiro de 2022 às 10:00"
+        excerpt = "Sistemas são unidos através de uma variedade de formas. Como arquiteto(a)s nós análisamos sistemas usando diferentes perspectivas, um ponto muito preocupante é o tal de acoplamento...."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1642791856/rm373batch15-bg-09_1_onx8a6.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/quantum/"
+        title = "Quântico Arquitetural"
+    [post3]
+        date = "20 de Janeiro de 2022 às 10:00"
+        excerpt = "Anteriormente falamos sobre Arquiteturas orientadas à eventos, nela vimos como criar arquiteturas que sejam escaláveis e tenham suas partes desacopladas e autônomas. Mas, quando falamos de eventos, podemos pensar em dois tipos: Eventos de domínio e Eventos de integração...."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1641573472/email-messages-network-circuit-board-link-connection-technology_1_p4ci8u.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/eventos-dominio-integracao/"
+        title = "Eventos de Domínio vs Integração"
+    [post4]
+        date = "13 de Janeiro de 2022 às 10:00"
+        excerpt = "Imagine que você está procurando por plantas de uma construção, tal documento foi criado por uma pessoa arquiteta e o mesmo nos diz os planos para a construção em si...."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1641573471/man-making-announcement-with-megaphone_1_uzowgt.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/screaming-architecture/"
+        title = "Screaming Architecture"
+    [post5]
         date = "23 de Dezembro de 2021 às 10:00"
         excerpt = "Dando continuidade na série sobre estilos de arquitetura, nesse post iremos falar sobre o estilo de arquitetura em camadas. Caso você tenha perdido os posts anteriores, dê uma olhada em:..."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1640211199/3942305_1_omu7r4.jpg"
         link = "https://blog.matheuscastiglioni.com.br/layered-architecture/"
         title = "Arquitetura em Camadas"
-    [post2]
-        date = "15 de Dezembro de 2021 às 20:21"
-        excerpt = "Quantas vezes você já se pegou criando algo que não é novo? Indo além, quando criando novos projetos e buscando a estrutura e configurações de um projeto já existente como base (o velho CTRL+C e CTRL+V kkkk)...."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1639610747/pointing-sketch_1_l9x5wo.jpg"
-        link = "https://blog.matheuscastiglioni.com.br/service-templates/"
-        title = "Service Templates"
-    [post3]
-        date = "09 de Dezembro de 2021 às 09:07"
-        excerpt = "Dando ínicio à uma série de post’s sobre estilos de arquitetura, nesse primeiro vamos dar uma olhada no estilo MVC. Um estilo de arquitetura é uma forma de definir os componentes e elementos sobre os blocos de construção de um software, ou seja, como o mesmo será construído (iremos falar sobre isso em post’s futuros)...."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1639052064/1295_vxnw2c.jpg"
-        link = "https://blog.matheuscastiglioni.com.br/arquitetura-mvc/"
-        title = "Arquitetura MVC"
-    [post4]
-        date = "25 de Novembro de 2021 às 08:14"
-        excerpt = "Nos post’s anteriores falamos bastante sobre abstrações e quando criá-las, seguindo os princípios don’t repeat yourself e avoid hasty abstractions. Vale lembrar também que:..."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1637843815/close-up-hand-writing-notebook-top-view_1_aa5xbo.jpg"
-        link = "https://blog.matheuscastiglioni.com.br/principio-wet/"
-        title = "Principio WET"
-    [post5]
-        date = "17 de Novembro de 2021 às 20:26"
-        excerpt = "Uma das maiores dúvidas e perguntas frequentes que acabo recebendo é sobre carreira, ou seja, como é a carreira e trajetória de pessoas que trabalham com tecnologia?..."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1637191774/hands-joined-by-team_1_r2g6sp.jpg"
-        link = "https://blog.matheuscastiglioni.com.br/carreira-y/"
-        title = "Carreira Y"
