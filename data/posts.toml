@@ -1,31 +1,31 @@
 [posts]
     [post1]
+        date = "10 de Fevereiro de 2022 às 10:00"
+        excerpt = "Atualmente estamos cada vez mais partindo para arquiteturas de sistemas distribuídas e a complexidade dos nossos projetos aumentam, aumentam e aumentam… Em determinados momentos nossos projetos passam de dezenas de registros para milhões (ou mais), porém, os requisitos de negócio permanecem os mesmos, ou seja, ainda precisamos computador e derivar esses milhões de registros...."
+        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1644000205/cloud-storage-banner-background_1_bgcxoq.jpg"
+        link = "https://blog.matheuscastiglioni.com.br/virtual-materialized-view/"
+        title = "Views virtuais e materializadas"
+    [post2]
         date = "03 de Fevereiro de 2022 às 10:00"
         excerpt = "Existe diversas formas da gente estruturar e dividir nossos projetos, ou seja, podemos particionar e separar nossos projetos de N maneiras. Na maioria das vezes (às vezes um framework não deixa) podemos escolher quais pastas e seus nomes, quais arquivos e seus nomes, quais separações, quais módulos, camadas, etc…..."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1643395059/666_1_y87m5y.jpg"
         link = "https://blog.matheuscastiglioni.com.br/partitioning-technical-domain/"
         title = "Particionamento técnico vs domínio"
-    [post2]
+    [post3]
         date = "27 de Janeiro de 2022 às 10:00"
         excerpt = "Sistemas são unidos através de uma variedade de formas. Como arquiteto(a)s nós análisamos sistemas usando diferentes perspectivas, um ponto muito preocupante é o tal de acoplamento...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1642791856/rm373batch15-bg-09_1_onx8a6.jpg"
         link = "https://blog.matheuscastiglioni.com.br/quantum/"
         title = "Quântico Arquitetural"
-    [post3]
+    [post4]
         date = "20 de Janeiro de 2022 às 10:00"
         excerpt = "Anteriormente falamos sobre Arquiteturas orientadas à eventos, nela vimos como criar arquiteturas que sejam escaláveis e tenham suas partes desacopladas e autônomas. Mas, quando falamos de eventos, podemos pensar em dois tipos: Eventos de domínio e Eventos de integração...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1641573472/email-messages-network-circuit-board-link-connection-technology_1_p4ci8u.jpg"
         link = "https://blog.matheuscastiglioni.com.br/eventos-dominio-integracao/"
         title = "Eventos de Domínio vs Integração"
-    [post4]
+    [post5]
         date = "13 de Janeiro de 2022 às 10:00"
         excerpt = "Imagine que você está procurando por plantas de uma construção, tal documento foi criado por uma pessoa arquiteta e o mesmo nos diz os planos para a construção em si...."
         image = "https://res.cloudinary.com/mahenrique94/image/upload/v1641573471/man-making-announcement-with-megaphone_1_uzowgt.jpg"
         link = "https://blog.matheuscastiglioni.com.br/screaming-architecture/"
         title = "Screaming Architecture"
-    [post5]
-        date = "23 de Dezembro de 2021 às 10:00"
-        excerpt = "Dando continuidade na série sobre estilos de arquitetura, nesse post iremos falar sobre o estilo de arquitetura em camadas. Caso você tenha perdido os posts anteriores, dê uma olhada em:..."
-        image = "https://res.cloudinary.com/mahenrique94/image/upload/v1640211199/3942305_1_omu7r4.jpg"
-        link = "https://blog.matheuscastiglioni.com.br/layered-architecture/"
-        title = "Arquitetura em Camadas"
