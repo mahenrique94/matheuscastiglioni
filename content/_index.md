@@ -21,9 +21,29 @@ Hoje a mais ou menos dois anos e meio sou Desenvolvedor *Full Stack* e um apaixo
 
 ## <i class="fa fa-briefcase o-content__icon"></i> Experiências
 
+### <i class="fa fa-desktop"></i> Senior Software Engineer
+##### [NearForm](https://www.nearform.com/)
+<span class="o-content__period">2022 - até o momento</span>
+
+<div class="l-separator"></div>
+
+### <i class="fa fa-desktop"></i> Navigator
+##### [DigitalOcean](https://www.digitalocean.com/)
+<span class="o-content__period">2021 - até o momento</span>
+
+<div class="l-separator"></div>
+
+### <i class="fa fa-desktop"></i> Alura Stars
+##### [Alura](https://alura.com.br/)
+<span class="o-content__period">2022 - até o momento</span>
+
+<div class="l-separator"></div>
+
 ### <i class="fa fa-desktop"></i> Staff Engineer
 ##### [Gupy](https://www.gupy.io/)
-<span class="o-content__period">2021 - até o momento</span>
+<span class="o-content__period">2021 - 2022</span>
+
+<div class="l-separator"></div>
 
 ### <i class="fa fa-desktop"></i> Tech Lead
 ##### [Gupy](https://www.gupy.io/)
@@ -31,36 +51,48 @@ Hoje a mais ou menos dois anos e meio sou Desenvolvedor *Full Stack* e um apaixo
 
 <div class="l-separator"></div>
 
-### <i class="fa fa-desktop"></i> Engenheiro de Software
+### <i class="fa fa-desktop"></i> Senior Software Engineer
 ##### [Gupy](https://www.gupy.io/)
 <span class="o-content__period">2019 - 2020</span>
 
 <div class="l-separator"></div>
 
-### <i class="fa fa-desktop"></i> Desenvolvedor Front End
+### <i class="fa fa-desktop"></i> Moderator at Forum
+##### [Alura](https://alura.com.br/)
+<span class="o-content__period">2018 - 2021</span>
+
+<div class="l-separator"></div>
+
+### <i class="fa fa-desktop"></i> Instructor
+##### [Alura](https://alura.com.br/)
+<span class="o-content__period">2019 - 2019</span>
+
+<div class="l-separator"></div>
+
+### <i class="fa fa-desktop"></i> Senior Front-End Engineer
 ##### [Dextra](http://dextra.com.br/pt/)
 <span class="o-content__period">2018 - 2019</span>
 
 <div class="l-separator"></div>
 
-### <i class="fa fa-desktop"></i> Desenvolvedor Front End
+### <i class="fa fa-desktop"></i> Mid-Level Front-End Engineer
 ##### [Logicalis](https://www.la.logicalis.com/pt-Latam/)
 <span class="o-content__period">2018 - 2018</span>
 
 <div class="l-separator"></div>
 
-### <i class="fa fa-keyboard-o"></i> Desenvolvedor Full Stack
+### <i class="fa fa-keyboard-o"></i> Full-Stack Engineer
 ##### [Atena Informática](http://www.atenainformatica.com.br)
 <span class="o-content__period">2015 - 2018</span>
 
 <div class="l-separator"></div>
 
-### <i class="fa fa-headphones"></i> Suporte Técnico
+### <i class="fa fa-headphones"></i> Technical Support
 ##### [Atena Informática](http://www.atenainformatica.com.br)
 <span class="o-content__period">2014 - 2015</span>
 
 <div class="l-separator"></div>
 
-### <i class="fa fa-wrench"></i> Técnico em Informática
+### <i class="fa fa-wrench"></i> Computer Technician
 ##### Carrossel Informática
 <span class="o-content__period">2009 - 2014</span>
