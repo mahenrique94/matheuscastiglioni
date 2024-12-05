@@ -21,25 +21,19 @@ Hoje a mais ou menos dois anos e meio sou Desenvolvedor *Full Stack* e um apaixo
 
 ## <i class="fa fa-briefcase o-content__icon"></i> Experiências
 
+### <i class="fa fa-desktop"></i> Staff Engineer
+##### [NearForm](https://www.nearform.com/)
+<span class="o-content__period">2024 - até o momento</span>
+
+## <i class="fa fa-briefcase o-content__icon"></i> Experiências
+
 ### <i class="fa fa-desktop"></i> Senior Software Engineer
 ##### [NearForm](https://www.nearform.com/)
-<span class="o-content__period">2022 - até o momento</span>
+<span class="o-content__period">2022 - 2024</span>
 
 <div class="l-separator"></div>
 
-### <i class="fa fa-desktop"></i> Navigator
-##### [DigitalOcean](https://www.digitalocean.com/)
-<span class="o-content__period">2021 - até o momento</span>
-
-<div class="l-separator"></div>
-
-### <i class="fa fa-desktop"></i> Alura Stars
-##### [Alura](https://alura.com.br/)
-<span class="o-content__period">2022 - até o momento</span>
-
-<div class="l-separator"></div>
-
-### <i class="fa fa-desktop"></i> Staff Engineer
+### <i class="fa fa-desktop"></i> Principal Engineer
 ##### [Gupy](https://www.gupy.io/)
 <span class="o-content__period">2021 - 2022</span>
 
