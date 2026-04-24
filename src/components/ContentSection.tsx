@@ -29,7 +29,7 @@ const contentTypes = [
   description:
   'Creating and delivering courses and workshops on software engineering and related topics.',
   icon: GraduationCap,
-  link: 'https://www.alura.com.br/',
+  link: 'https://academy.matheuscastiglioni.com.br/',
   linkText: 'Explore Courses'
 },
 {
