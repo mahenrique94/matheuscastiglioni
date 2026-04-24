@@ -4,8 +4,14 @@ const roles = [
 'Principal Engineer',
 'Staff Engineer',
 'Tech Lead',
+'Software Architect',
+'Software Developer',
+'Software Consultant',
+'Software Expert',
+'Software Engineer',
 'Game Developer',
 'Content Creator',
+'Educator',
 'Mentor'];
 
 export function HeroSection() {
