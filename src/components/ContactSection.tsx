@@ -35,7 +35,7 @@ export function ContactSection() {
           </p>
 
           <a
-            href="mailto:hello@example.com"
+            href="mailto:matheushcastiglioni@gmail.com"
             className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-white text-brand-dark font-medium text-lg hover:scale-105 transition-transform duration-300 shadow-[0_0_30px_rgba(0,194,203,0.3)]">
             
             <Mail className="w-5 h-5" />
