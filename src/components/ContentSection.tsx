@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { BookOpen, Youtube, Mic, IterationCcw, GraduationCap, BookIcon } from 'lucide-react';
+import { BookOpen, Youtube, Mic, IterationCcw, GraduationCap, BookIcon, CodeIcon } from 'lucide-react';
+import { link } from 'fs';
 const contentTypes = [
 {
   title: 'Tech Blog',
@@ -37,6 +38,14 @@ const contentTypes = [
   description:
   'Authoring books and technical publications on software engineering and related topics.',
   icon: BookIcon,
+},
+{
+  title: 'Sofware Consultancy',
+  description:
+  'Providing consultancy services to help companies improve their software architecture and engineering practices or build new solutions.',
+  icon: CodeIcon,
+  link: 'https://www.bytebiti.com.br/en-us',
+  linkText: 'Contact Me'
 }
 ];
 
