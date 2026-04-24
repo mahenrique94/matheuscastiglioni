@@ -128,7 +128,7 @@ export function HeroSection() {
           }}
           className="text-lg md:text-xl text-gray-400 max-w-2xl font-light">
           
-          11+ years building software, structuring teams, and creating beautiful
+          10+ years building software, structuring teams, and creating beautiful
           legacies.
         </motion.p>
       </div>
