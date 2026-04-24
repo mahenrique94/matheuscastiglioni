@@ -6,7 +6,8 @@ import {
   Layout,
   Smartphone,
   Gamepad2,
-  Users2 } from
+  Users2, 
+  CircuitBoard} from
 'lucide-react';
 const skills = [
 {
@@ -44,7 +45,14 @@ const skills = [
   description:
   'Structuring teams, coaching engineers, and driving technical excellence.',
   icon: Users2
-}];
+},
+{
+  title: 'Artificial Intelligence',
+  description:
+  'AI tools and techniques for solving complex problems or creating innovative solutions.',
+  icon: CircuitBoard
+}
+];
 
 export function ExpertiseSection() {
   return (
