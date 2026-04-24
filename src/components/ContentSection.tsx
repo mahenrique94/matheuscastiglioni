@@ -27,7 +27,7 @@ const contentTypes = [
 {
   title: 'Online Education',
   description:
-  'Creating and delivering courses and workshops on software engineering and related topics.',
+  'Creating and delivering full formations on software engineering and related topics.',
   icon: GraduationCap,
   link: 'https://academy.matheuscastiglioni.com.br/',
   linkText: 'Explore Courses'
@@ -37,8 +37,6 @@ const contentTypes = [
   description:
   'Authoring books and technical publications on software engineering and related topics.',
   icon: BookIcon,
-  link: 'https://www.casadocodigo.com.br/',
-  linkText: 'Explore Books'
 }
 ];
 
