@@ -38,13 +38,15 @@ const contentTypes = [
   description:
   'Authoring books and technical publications on software engineering and related topics.',
   icon: BookIcon,
+  link: "https://www.casadocodigo.com.br/products/livro-arte-de-desenvolver",
+  linkText: "Read Book"
 },
 {
   title: 'Sofware Consultancy',
   description:
   'Providing consultancy services to help companies improve their software architecture and engineering practices or build new solutions.',
   icon: CodeIcon,
-  link: 'https://www.bytebiti.com.br/en-us',
+  link: 'https://www.linkedin.com/in/matheus-castiglioni-7aa105114/',
   linkText: 'Contact Me'
 }
 ];
